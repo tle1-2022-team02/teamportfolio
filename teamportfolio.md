@@ -31,7 +31,7 @@ Hoofdvraag: Hoe kan technologie bijdragen aan het vermogen van betrokken profess
 - Sprint 5: Opleveren
 - Afronding
 
-**Per Sprint**
+**Per Sprint**  
 Standup di/wo 11:00  
 Sprint 3 weken  
 
@@ -89,5 +89,7 @@ W3 di: Sprint review
 
 ## Notes
 https://www.hsleiden.nl/lvb-en-risicovol-gedrag
+
 https://www.npostart.nl/brainwash-talks/16-05-2021/VPWON_1326072
+
 https://miro.com/app/board/uXjVPazEVeo=/?moveToWidget=3458764532606876860&cot=14
