@@ -1,8 +1,8 @@
 # TLE1 Teamportfolio
-Hogeschool Rotterdam 
+Hogeschool Rotterdam   
 Groep 2
 
-Versie Sprint 0
+Versie Sprint 0  
 2022-09-05
 
 
@@ -11,32 +11,32 @@ Versie Sprint 0
 
 ### Algemeen 
 
-Opdrachtgever: Lectoraat HS Leiden
+Opdrachtgever: Lectoraat HS Leiden  
 Coach: Jurgen
 
-Bilal Hussain (A: Onderzoekend)
-Raiesa Ghauharali (A: Onderzoekend)
-Milan Kautz (B: Betrokken)
-Caspar Bosch (C: Ontwerpend)
-Lucas van der Vegt (D: Ondernemend)
+- Bilal Hussain (A: Onderzoekend)  
+- Raiesa Ghauharali (A: Onderzoekend)  
+- Milan Kautz (B: Betrokken)
+- Caspar Bosch (C: Ontwerpend)
+- Lucas van der Vegt (D: Ondernemend)
 
 Hoofdvraag: Hoe kan technologie bijdragen aan het vermogen van betrokken professionals om zich in te leven in de leefwereld van risicojeugd (die ernstige en gewelddadige delicten plegen)?
 
 **Sprint Planning**
-Sprint 0: Analyseren
-Sprint 1: Ontwerpen
-Sprint 2: Implementeren
-Sprint 3: Implementeren
-Sprint 4: Implementeren
-Sprint 5: Opleveren
-Afronding
+- Sprint 0: Analyseren
+- Sprint 1: Ontwerpen
+- Sprint 2: Implementeren
+- Sprint 3: Implementeren
+- Sprint 4: Implementeren
+- Sprint 5: Opleveren
+- Afronding
 
 **Per Sprint**
-Standup di/wo 11:00
-Sprint 3 weken
+Standup di/wo 11:00  
+Sprint 3 weken  
 
-W1 di: Retrospective
-W3 di: Sprint review 
+W1 di: Retrospective  
+W3 di: Sprint review   
 
 ### Links
 
