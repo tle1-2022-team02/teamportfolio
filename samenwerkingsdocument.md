@@ -1,4 +1,5 @@
 # Samenwerkingsdocument
+Versie 2022-09-07
 
 ## Omgang / Processen
 
@@ -72,3 +73,35 @@ Beschreven op de sprint planning log
 Gecheckt & Besproken door alle teamleden
 
 Toegevoegd in het teamportfolio bestand
+
+## Handtekeningen
+
+Naam: Lucas van der Vegt
+Datum:
+Locatie:
+Handtekening:
+
+Naam:
+Datum:
+Locatie:
+Handtekening:
+
+Naam:
+Datum:
+Locatie:
+Handtekening:
+
+Naam:
+Datum:
+Locatie:
+Handtekening:
+
+Naam:
+Datum:
+Locatie:
+Handtekening:
+
+Naam:
+Datum:
+Locatie:
+Handtekening:
