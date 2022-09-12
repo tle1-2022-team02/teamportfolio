@@ -7,7 +7,7 @@ Datum tweede meeting: 2022-09-20
 
 Klantnaam: Lectoraat HS Leiden
 Contactpersoon klant: Jan Dirk de Jong
-Contactgegevens klant: email [linkedin](https://www.linkedin.com/in/jan-dirk-de-jong-a7b9b215/)
+Contactgegevens klant: jong.de.jd@hsleiden.nl [linkedin](https://www.linkedin.com/in/jan-dirk-de-jong-a7b9b215/)
 Contactpersoon team: Lucas van der Vegt (Backup: Caspar Bosch)
 Contactgegevens team: lpsvandervegt@gmail.com
 Hoofdvraag: Professionals laten inleven in de leefwereld van risicojeugd
@@ -16,18 +16,27 @@ Versie: v1
 
 ## 2. Achtergrond van de opdrachtgever
 *Wie is de klant? Wat is hun product? Wat is er al bekend? Wie is de klant van de klant?*
+Onze klant is Jan Drik de Jong van het lectoraat hogeschool leiden. Hij wil dat we een product gaan maken voor professionals. De klant van de klant zijn deze proffesionals die werken met hoogrisico jeugd.
 
 ## 3. Project details
 *Wat is het project? Wat zijn de kansen? Wat is het probleem dat je wilt oplossen?*
+De opdrachtgever wil dat we een product maken om het inlevingsvermogen van de proffessionals te vergroten. Hij denkt zelf in de richting van een game/gamification oplossing. Het probleem dat hij wil oplossen is dat proffesionals nog te vaak van buitenaf oordelen over deze groep jeugd, terwijl je ze eigenlijk zij aan zij moet helpen. Ze luisteren namelijk vaak niet direct naar gezag van bovenaf omdat ze dit niet vertrouwen.
 
 ## 4. Drivers
 *Wat is het doel van het project? Wat dienen we te bereiken?*
 
+Het doel is dat de risicojeugd de professionals gaan vertrouwen en er wederzijds respect ontstaat. Om uiteindelijk deze jeugd een betere plek in de maatschappij te helpen.
+
 ## 5. Doelgroep
 *Op wie richten we ons? Wat proberen we bij ze te bereiken?*
+Onze primaire doelgroep is de professionals die zelf te maken hebben met de risico jeugd (onze secundaire doelgroep). We willen ze ervaring en nieuwe inzichten geven om zich beter te kunnen inleven bij hun eigen doelgroep.
 
 ## 6. Concurrenten
 *Wat zijn soortgelijke organisaties? Wat onderscheidt onze opdrachtgever?*
+
+De opdrachtgever had zelf al een product ontwikkeld die dezelfde hoofdvraag bedraagt. Alleen wat hij zelf zei is dat hij niet genoeg expertise heeft over het stukje gamedesign en daardoor de (re)playability niet heel optimaal is en het niet zijn beoogde doel haalde.
+
+?vraag naar andere concreet bestaande producten
 
 ## 7. Tone-of-voice
 *Hoe wil de opdrachtgever zijn doelgroep aanspreken?*
@@ -44,8 +53,36 @@ Versie: v1
 ## 11. Mensen
 *Met wie hebben we te maken? Hoe moeten we ze betrekken?*
 
+Professionals (primaire doelgroep)
+Risicojeugd (secundaire doelgroep)
+
+Opdrachtgever
+Hogeschool Leiden
+Instanties
+Jeugdzorg
+Sociale omgeving van risicojeugd
+Wijkbewoners 
+Passanten / Verkeer
+Bedrijven
+Werknemers
+Woningexploitantenten
+Wijkagententen 
+Politie
+Gemeente
+Nederlandse Overheid
+De Pers
+
+
 ## 12. Planning & Budget
 *Wat zijn (mogelijke) deadlines? Zijn er andere/offline uitingen in de pijplijn? Zijn er budgetten bekend?*
 
+
+
 ## 13. Overig
 *Nog andere belangrijke zaken om te benoemen?*
+
+
+## ! nog te stellen vragen
+
+Wat zijn concrete voorbeelden van bestaande producten
+wat had hij zelf al een keer uitgewerkt
