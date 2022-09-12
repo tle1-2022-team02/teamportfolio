@@ -1,18 +1,18 @@
 # Debrief v1
 
-Versie 2022-09-07
-Datum eerste meeting: 2022-09-06
-Datum tweede meeting: 2022-09-20
+Versie 2022-09-07  
+Datum eerste meeting: 2022-09-06  
+Datum tweede meeting: 2022-09-20  
 ## 1. Algemene informatie
 
-Klantnaam: Lectoraat HS Leiden
-Contactpersoon klant: Jan Dirk de Jong
-Contactgegevens klant: jong.de.jd@hsleiden.nl [linkedin](https://www.linkedin.com/in/jan-dirk-de-jong-a7b9b215/)
-Contactpersoon team: Lucas van der Vegt (Backup: Caspar Bosch)
-Contactgegevens team: lpsvandervegt@gmail.com
-Hoofdvraag: Professionals laten inleven in de leefwereld van risicojeugd
-Datum: 2022-09-xx
-Versie: v1
+Klantnaam: Lectoraat HS Leiden  
+Contactpersoon klant: Jan Dirk de Jong  
+Contactgegevens klant: jong.de.jd@hsleiden.nl [linkedin](https://www.linkedin.com/in/jan-dirk-de-jong-a7b9b215/)  
+Contactpersoon team: Lucas van der Vegt (Backup: Caspar Bosch)  
+Contactgegevens team: lpsvandervegt@gmail.com  
+Hoofdvraag: Professionals laten inleven in de leefwereld van risicojeugd  
+Datum: 2022-09-xx  
+Versie: v1  
 
 ## 2. Achtergrond van de opdrachtgever
 *Wie is de klant? Wat is hun product? Wat is er al bekend? Wie is de klant van de klant?*
@@ -59,38 +59,39 @@ Open source aangeleverd zodat de opdrachtgever (en of anderen) er in de toekomst
 ## 11. Mensen
 *Met wie hebben we te maken? Hoe moeten we ze betrekken?*
 
-Professionals (primaire doelgroep)
-Risicojeugd (secundaire doelgroep)
+- Professionals (primaire doelgroep)
+- Risicojeugd (secundaire doelgroep)
 
 Stakeholders:
-Opdrachtgever
-Hogeschool Leiden (lectoraat)
-TLE Team
-Hogeschool Rotterdam
-Toekomstige Developers/Designers/Ops 
+- Opdrachtgever
+- Hogeschool Leiden (lectoraat)
+- TLE Team
+- Hogeschool Rotterdam
+- Toekomstige Developers/Designers/Ops 
 
-Instanties
-Jeugdzorg
-Sociale omgeving van risicojeugd
-Wijkbewoners 
-Passanten / Verkeer
-Bedrijven
-Werknemers
-Woningexploitantenten
-Wijkagententen 
-Politie
-Gemeente
-Nederlandse Overheid
-De Pers
+- Instanties
+- Jeugdzorg
+- Sociale omgeving van risicojeugd
+- Wijkbewoners 
+- Passanten / Verkeer
+- Bedrijven
+- Werknemers
+- Woningexploitantenten
+- Wijkagententen 
+- Politie
+- Gemeente
+- Nederlandse Overheid
+- De Pers
 
 
 ## 12. Planning & Budget
 *Wat zijn (mogelijke) deadlines? Zijn er andere/offline uitingen in de pijplijn? Zijn er budgetten bekend?*
 
-Live meeting opdrachtgever (debrief ondertekenen) - Dinsdag 20 sept
-Conceptpich (Online) - Woensdag 12 okt
-Progress Presentation - Dinsdag 15 nov
-Eindmarkt - Dinsdag 7 jan
+Live meeting opdrachtgever (debrief ondertekenen) - Dinsdag 20 sept  
+Conceptpich (Online) - Woensdag 12 okt  
+Progress Presentation - Dinsdag 15 nov  
+Eindmarkt - Dinsdag 7 jan  
+
 
 Geen budget (enkel hosting)
 
@@ -101,5 +102,6 @@ Geen budget (enkel hosting)
 
 ## ! nog te stellen vragen
 
-Wat zijn concrete voorbeelden van bestaande producten
-wat had hij zelf al een keer uitgewerkt
+Wat zijn concrete voorbeelden van bestaande producten?
+
+wat had hij zelf al een keer uitgewerkt?
