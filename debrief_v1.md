@@ -46,8 +46,14 @@ Speelsgewijs met op de nodige plekken proffesionele feedback en informatie.
 ## 8. Boodschap
 *Wat willen we overbrengen? Zijn er al uitingen bekend?*
 
+We moeten niet neerkijken op de risicojeugd maar aan hun zijde staan. 
+
+<!-- TODO:L(?!) -->
+
 ## 9. Look & Feel
 *Wat is onze vrijheid, wat zijn de restricties? Is er al visueel ontwerp, fotografie of huisstijl? Dienen we dit te ontwikkelen?*
+
+<!-- TODO: vragen -->
 
 ## 10. (Technische) Details
 *Zijn er technische of andere zaken om rekening mee te houden?*
@@ -60,7 +66,7 @@ Open source aangeleverd zodat de opdrachtgever (en of anderen) er in de toekomst
 *Met wie hebben we te maken? Hoe moeten we ze betrekken?*
 
 - Professionals (primaire doelgroep)
-- Risicojeugd (secundaire doelgroep)
+- Risicojeugd [12-23] (secundaire doelgroep)
 
 Stakeholders:
 - Opdrachtgever
@@ -81,7 +87,9 @@ Stakeholders:
 - Politie
 - Gemeente
 - Nederlandse Overheid
+- Justitie
 - De Pers
+- Scholen
 
 
 ## 12. Planning & Budget
@@ -93,7 +101,7 @@ Progress Presentation - Dinsdag 15 nov
 Eindmarkt - Dinsdag 7 jan  
 
 
-Geen budget (enkel hosting)
+Geen budget (enkel voor de hosting)
 
 
 ## 13. Overig
