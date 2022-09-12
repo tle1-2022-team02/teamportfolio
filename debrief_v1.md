@@ -41,6 +41,8 @@ De opdrachtgever had zelf al een product ontwikkeld die dezelfde hoofdvraag bedr
 ## 7. Tone-of-voice
 *Hoe wil de opdrachtgever zijn doelgroep aanspreken?*
 
+Speelsgewijs met op de nodige plekken proffesionele feedback en informatie.
+
 ## 8. Boodschap
 *Wat willen we overbrengen? Zijn er al uitingen bekend?*
 
@@ -50,14 +52,23 @@ De opdrachtgever had zelf al een product ontwikkeld die dezelfde hoofdvraag bedr
 ## 10. (Technische) Details
 *Zijn er technische of andere zaken om rekening mee te houden?*
 
+Het liefst mobile accessible en makkelijk instaleerbaar/te accessen/op te zetten.
+
+Open source aangeleverd zodat de opdrachtgever (en of anderen) er in de toekomst mogelijk verder op kunnen bouwen.
+
 ## 11. Mensen
 *Met wie hebben we te maken? Hoe moeten we ze betrekken?*
 
 Professionals (primaire doelgroep)
 Risicojeugd (secundaire doelgroep)
 
+Stakeholders:
 Opdrachtgever
-Hogeschool Leiden
+Hogeschool Leiden (lectoraat)
+TLE Team
+Hogeschool Rotterdam
+Toekomstige Developers/Designers/Ops 
+
 Instanties
 Jeugdzorg
 Sociale omgeving van risicojeugd
@@ -76,6 +87,12 @@ De Pers
 ## 12. Planning & Budget
 *Wat zijn (mogelijke) deadlines? Zijn er andere/offline uitingen in de pijplijn? Zijn er budgetten bekend?*
 
+Live meeting opdrachtgever (debrief ondertekenen) - Dinsdag 20 sept
+Conceptpich (Online) - Woensdag 12 okt
+Progress Presentation - Dinsdag 15 nov
+Eindmarkt - Dinsdag 7 jan
+
+Geen budget (enkel hosting)
 
 
 ## 13. Overig

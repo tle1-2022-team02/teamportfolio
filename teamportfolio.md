@@ -49,7 +49,7 @@ W3 di: Sprint review
 ### 1.3 Deskresearch & Doelgroeponderzoek
 
 ### 1.4 Make me Think
- 
+  
 ### 1.5 Inspiratie & Insights
 
 ### 1.6 Technologisch onderzoek & eerste experiment(en)
