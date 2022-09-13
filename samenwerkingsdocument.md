@@ -19,7 +19,7 @@ als iemand niet naar locatie kan komen maar wel kan werken, gelden nog steeds de
 mocht iemand niet kunnen komen en ook niet online, dan moet diegene zijn werk op een ander moment inhalen. Als er een cruciaal item is wat diegene niet kan maken moet hier met overleg een oplossing op verzonnen worden (bijv dat 2 items omgeruild worden).
 er mag altijd op locatie gewerkt worden.
 
-De items worden aan het begin van de sprint verdeelt onder de groepsgenoten (over het algemeen maakt elk persoon de bijbehorende opdracht van hun specialize me richting)
+De items worden aan het begin van de sprint verdeeld onder de groepsgenoten (over het algemeen maakt elk persoon de bijbehorende opdracht van hun specialize me richting)
 mocht de verdeling van items niet goed zijn word dit in een standup besproken en hier een oplossing voor verzonnen.
 
 ## Contract / afspraken

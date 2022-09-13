@@ -16,11 +16,11 @@ Versie: v1
 
 ## 2. Achtergrond van de opdrachtgever
 *Wie is de klant? Wat is hun product? Wat is er al bekend? Wie is de klant van de klant?*
-Onze klant is Jan Drik de Jong van het lectoraat hogeschool leiden. Hij wil dat we een product gaan maken voor professionals. De klant van de klant zijn deze proffesionals die werken met hoogrisico jeugd.
+Onze klant is Jan Dirk de Jong van het lectoraat hogeschool leiden. Hij wil dat we een product gaan maken voor professionals. De klant van de klant zijn deze professionals die werken met hoogrisico jeugd.
 
 ## 3. Project details
 *Wat is het project? Wat zijn de kansen? Wat is het probleem dat je wilt oplossen?*
-De opdrachtgever wil dat we een product maken om het inlevingsvermogen van de proffessionals te vergroten. Hij denkt zelf in de richting van een game/gamification oplossing. Het probleem dat hij wil oplossen is dat proffesionals nog te vaak van buitenaf oordelen over deze groep jeugd, terwijl je ze eigenlijk zij aan zij moet helpen. Ze luisteren namelijk vaak niet direct naar gezag van bovenaf omdat ze dit niet vertrouwen.
+De opdrachtgever wil dat we een product maken om het inlevingsvermogen van de professionals te vergroten. Hij denkt zelf in de richting van een game/gamification oplossing. Het probleem dat hij wil oplossen is dat professionals nog te vaak van buitenaf oordelen over deze groep jeugd, terwijl je ze eigenlijk zij aan zij moet helpen. Ze luisteren namelijk vaak niet direct naar gezag van bovenaf omdat ze dit niet vertrouwen.
 
 ## 4. Drivers
 *Wat is het doel van het project? Wat dienen we te bereiken?*
@@ -41,14 +41,14 @@ De opdrachtgever had zelf al een product ontwikkeld die dezelfde hoofdvraag bedr
 ## 7. Tone-of-voice
 *Hoe wil de opdrachtgever zijn doelgroep aanspreken?*
 
-Speelsgewijs met op de nodige plekken proffesionele feedback en informatie.
+Stapsgewijs met op de nodige plekken professionele feedback en informatie.
 
 ## 8. Boodschap
 *Wat willen we overbrengen? Zijn er al uitingen bekend?*
 
-We moeten niet neerkijken op de risicojeugd maar aan hun zijde staan. 
+We moeten niet neerkijken op de risicojeugd maar aan hun zijde staan.
 
-<!-- TODO:L(?!) -->
+<!-- TODO: (?!) -->
 
 ## 9. Look & Feel
 *Wat is onze vrijheid, wat zijn de restricties? Is er al visueel ontwerp, fotografie of huisstijl? Dienen we dit te ontwikkelen?*
@@ -58,7 +58,7 @@ We moeten niet neerkijken op de risicojeugd maar aan hun zijde staan.
 ## 10. (Technische) Details
 *Zijn er technische of andere zaken om rekening mee te houden?*
 
-Het liefst mobile accessible en makkelijk instaleerbaar/te accessen/op te zetten.
+Het liefst mobile accessible en makkelijk installeerbaar/te accessen/op te zetten.
 
 Open source aangeleverd zodat de opdrachtgever (en of anderen) er in de toekomst mogelijk verder op kunnen bouwen.
 
@@ -73,17 +73,17 @@ Stakeholders:
 - Hogeschool Leiden (lectoraat)
 - TLE Team
 - Hogeschool Rotterdam
-- Toekomstige Developers/Designers/Ops 
+- Toekomstige Developers/Designers/Ops
 
 - Instanties
 - Jeugdzorg
 - Sociale omgeving van risicojeugd
-- Wijkbewoners 
+- Wijkbewoners
 - Passanten / Verkeer
 - Bedrijven
 - Werknemers
 - Woningexploitantenten
-- Wijkagententen 
+- Wijkagenten Ten
 - Politie
 - Gemeente
 - Nederlandse Overheid
@@ -96,7 +96,7 @@ Stakeholders:
 *Wat zijn (mogelijke) deadlines? Zijn er andere/offline uitingen in de pijplijn? Zijn er budgetten bekend?*
 
 Live meeting opdrachtgever (debrief ondertekenen) - Dinsdag 20 sept  
-Conceptpich (Online) - Woensdag 12 okt  
+Conceptpitch (Online) - Woensdag 12 okt  
 Progress Presentation - Dinsdag 15 nov  
 Eindmarkt - Dinsdag 7 jan  
 
