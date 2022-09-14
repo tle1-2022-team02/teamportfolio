@@ -113,3 +113,7 @@ Geen budget (enkel voor de hosting)
 Wat zijn concrete voorbeelden van bestaande producten?
 
 wat had hij zelf al een keer uitgewerkt?
+
+
+
+Het spel in detail hebben
