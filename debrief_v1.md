@@ -65,7 +65,7 @@ Open source aangeleverd zodat de opdrachtgever (en of anderen) er in de toekomst
 ## 11. Mensen
 *Met wie hebben we te maken? Hoe moeten we ze betrekken?*
 
-- Professionals (primaire doelgroep)
+- Jeugdzorg Professionals (primaire doelgroep)
 - Risicojeugd [12-23] (secundaire doelgroep)
 
 Stakeholders:
