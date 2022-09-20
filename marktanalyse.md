@@ -11,21 +11,25 @@ Zie stakeholdermap miro
 ## Doelgroep
 
 Jeugdzorg Professionals (primaire doelgroep)
+Hulpverleners/Jongerenwerkers
 
 Risicojeugd [12-23] (secundaire doelgroep)
 
+<!-- TODO: Insert door jan dirk gemaakte beschrijving over de doelgroep -->
+
 ## Job to Be Done
 
-De job to be done is om de professional meer empathie te geven naar risicojeugd.
+De job to be done is om de professional meer empathie/begrip te geven naar risicojeugd.
  
 ## Welke producten/diensten/services vervullen dezelfde job
-
 
 Snitchen of Strijden
 
 https://strdr.nu/
 
-https://www.meerbode.nl/spel-strijden-of-snitchen-voor-wellantcollege/
+https://www.meerbode.nl/spel-strijden-of-snitchen-voor-wellantcollege/4
+
+<!-- TODO: Aan jan dirk vragen welke specifieke spellen er al bestaan van zijn weten af-->
 
 
 ## Andere Bronnen
