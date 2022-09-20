@@ -43,3 +43,8 @@ https://onderwijsontwikkeling.wordpress.com/2017/07/12/tfoe-scorro-die-tattas-be
 https://www.straatcontact.nl/pg-29326-7-95261/pagina/trainingen.html
 
 https://straatagressie.nl/Straatcultuurtraining/
+
+
+## Conclusie
+
+<!-- TODO: add concrete conclusie dit van onderdeel -->
