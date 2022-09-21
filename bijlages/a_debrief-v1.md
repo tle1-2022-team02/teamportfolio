@@ -1,6 +1,6 @@
 # Debrief v1
 
-Versie 2022-09-07  
+Versie 2022-09-21  
 Datum eerste meeting: 2022-09-06  
 Datum tweede meeting: 2022-09-20  
 ## 1. Algemene informatie

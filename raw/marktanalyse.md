@@ -10,8 +10,8 @@ Zie stakeholdermap miro
 
 ## Doelgroep
 
-Jeugdzorg Professionals (primaire doelgroep)
-Hulpverleners/Jongerenwerkers
+(Jeugdzorg) Professionals (primaire doelgroep)
+Hulpverleners/Jongerenwerkers/Wijkagenten
 
 Risicojeugd [12-23] (secundaire doelgroep)
 
