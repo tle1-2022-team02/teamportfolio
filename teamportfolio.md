@@ -28,6 +28,7 @@ Versie Sprint 0
       - [Andere Bronnen](#andere-bronnen)
       - [Conclusie](#conclusie)
     - [1.3 Deskresearch & Doelgroeponderzoek](#13-deskresearch--doelgroeponderzoek)
+      - [Keyword research](#keyword-research)
       - [Interview](#interview)
         - [Vragen](#vragen)
         - [Uitvoering](#uitvoering-1)
@@ -41,6 +42,7 @@ Versie Sprint 0
       - [Waarden:](#waarden)
       - [Speelveld:](#speelveld)
     - [1.5 Inspiratie & Insights](#15-inspiratie--insights)
+      - [Wall of inspiration](#wall-of-inspiration)
     - [1.6 Technologisch onderzoek & eerste experiment(en)](#16-technologisch-onderzoek--eerste-experimenten)
     - [1.7 Conclusies, aanbevelingen en vervolgstappen](#17-conclusies-aanbevelingen-en-vervolgstappen)
   - [Hoofdstuk 2](#hoofdstuk-2)
@@ -122,6 +124,8 @@ Is geld van belang
 
 ##### Uitvoering
 
+<!-- TODO: insert -->
+
 #### Welke Markt Opereert de opdrachtgever
 
 De opdrachtgever opereert in een niet bestaande markt, althans er zijn nog geen concrete volledig werkende producten die werken hoe de opdrachtgever oogt / werkt niet goed genoeg om het doel te bereiken.
@@ -196,6 +200,10 @@ https://straatagressie.nl/Straatcultuurtraining/
 
 ### 1.3 Deskresearch & Doelgroeponderzoek
 
+#### Keyword research
+
+<!-- TODO: raiesa & bilal: add de eigen lijst met bronnen (volgens apa) -->
+
 #### Interview
 
 ##### Vragen 
@@ -263,6 +271,8 @@ Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 <!-- TODO: insert pic -->
   
 ### 1.5 Inspiratie & Insights
+
+#### Wall of inspiration
 
 ### 1.6 Technologisch onderzoek & eerste experiment(en)
 
