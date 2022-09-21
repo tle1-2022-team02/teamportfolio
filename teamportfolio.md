@@ -32,6 +32,13 @@ Versie Sprint 0
     - [1.6 Technologisch onderzoek & eerste experiment(en)](#16-technologisch-onderzoek--eerste-experimenten)
     - [1.7 Conclusies, aanbevelingen en vervolgstappen](#17-conclusies-aanbevelingen-en-vervolgstappen)
   - [Hoofdstuk 2](#hoofdstuk-2)
+    - [2.1 Inleiding](#21-inleiding)
+    - [2.2 User Journey Mapping](#22-user-journey-mapping)
+    - [2.3 Design Sprint](#23-design-sprint)
+    - [2.4 Value Sensitive Design](#24-value-sensitive-design)
+    - [2.5 Pitchen & Waardepropositie(s)](#25-pitchen--waardeproposities)
+    - [2.6 Technisch OntwerpPRG les & TLE Speedcourse](#26-technisch-ontwerpprg-les--tle-speedcourse)
+    - [2.7 Conclusies, aanbevelingen en vervolgstappen](#27-conclusies-aanbevelingen-en-vervolgstappen)
   - [Hoofdstuk 3](#hoofdstuk-3)
     - [3.0 Inleiding](#30-inleiding)
     - [3.1 Development sprint iteratie 1](#31-development-sprint-iteratie-1)
@@ -181,6 +188,20 @@ In dit vraagstuk / dilemma zal dus een goede tussenweg moeten worden gevonden. D
 ### 1.7 Conclusies, aanbevelingen en vervolgstappen
 
 ## Hoofdstuk 2
+
+### 2.1 Inleiding
+
+### 2.2 User Journey Mapping
+
+### 2.3 Design Sprint
+
+### 2.4 Value Sensitive Design
+
+### 2.5 Pitchen & Waardepropositie(s)
+
+### 2.6 Technisch OntwerpPRG les & TLE Speedcourse
+
+### 2.7 Conclusies, aanbevelingen en vervolgstappen
 
 ## Hoofdstuk 3
 
