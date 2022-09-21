@@ -43,6 +43,10 @@ Versie Sprint 0
       - [Speelveld:](#speelveld)
     - [1.5 Inspiratie & Insights](#15-inspiratie--insights)
       - [Wall of inspiration](#wall-of-inspiration)
+      - [WWWWWH](#wwwwwh)
+      - [Insights](#insights)
+      - [Frame Your Design](#frame-your-design)
+      - [Impact Ladder](#impact-ladder)
     - [1.6 Technologisch onderzoek & eerste experiment(en)](#16-technologisch-onderzoek--eerste-experimenten)
     - [1.7 Conclusies, aanbevelingen en vervolgstappen](#17-conclusies-aanbevelingen-en-vervolgstappen)
   - [Hoofdstuk 2](#hoofdstuk-2)
@@ -69,7 +73,7 @@ Versie Sprint 0
 
 ### Algemeen 
 
-Opdrachtgever: Lectoraat HS Leiden  
+Opdrachtgever: Jan Dirk de Jong (Lectoraat HS Leiden)  
 Coach: Jurgen
 
 - Bilal Hussain (A: Onderzoekend)  
@@ -273,6 +277,22 @@ Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 ### 1.5 Inspiratie & Insights
 
 #### Wall of inspiration
+
+#### WWWWWH
+
+<!-- TODO: insert from miro-->
+
+#### Insights
+
+<!-- TODO: insert from miro-->
+
+#### Frame Your Design
+
+<!-- TODO: insert from miro-->
+
+#### Impact Ladder
+
+<!-- TODO: insert from miro-->
 
 ### 1.6 Technologisch onderzoek & eerste experiment(en)
 
