@@ -18,12 +18,16 @@ Versie Sprint 0
       - [Welke Markt Opereert de opdrachtgever](#welke-markt-opereert-de-opdrachtgever)
       - [Stakeholders](#stakeholders)
       - [Doelgroep](#doelgroep)
+        - [Professionals](#professionals)
+        - [Risicojeugd](#risicojeugd)
       - [Job to Be Done](#job-to-be-done)
       - [Welke producten/diensten/services vervullen dezelfde job](#welke-productendienstenservices-vervullen-dezelfde-job)
       - [Andere Bronnen](#andere-bronnen)
       - [Conclusie](#conclusie)
     - [1.3 Deskresearch & Doelgroeponderzoek](#13-deskresearch--doelgroeponderzoek)
     - [1.4 Make me Think](#14-make-me-think)
+      - [Ethische dilemma’s](#ethische-dilemmas)
+        - [Conclusie](#conclusie-1)
     - [1.5 Inspiratie & Insights](#15-inspiratie--insights)
     - [1.6 Technologisch onderzoek & eerste experiment(en)](#16-technologisch-onderzoek--eerste-experimenten)
     - [1.7 Conclusies, aanbevelingen en vervolgstappen](#17-conclusies-aanbevelingen-en-vervolgstappen)
@@ -91,12 +95,35 @@ Zie stakeholdermap miro
 
 #### Doelgroep
 
+##### Professionals
+
 (Jeugdzorg) Professionals (primaire doelgroep)
 Hulpverleners/Jongerenwerkers/Wijkagenten
 
+##### Risicojeugd
+
 Risicojeugd [12-23] (secundaire doelgroep)
 
-<!-- TODO: Insert door jan dirk gemaakte beschrijving over de doelgroep -->
+Praktijkgericht onderzoek vanuit het lectoraat Aanpak Jeugdcriminaliteit zal zich hoofdzakelijk richten op deze specifieke doelgroep. Met een nadruk op hedendaagse hoog-risicojeugd draagt het lectoraat bij aan de aanpak van jeugdcriminaliteit daar waar de vraag vanuit het werkveld om innovatieve opbrengsten vanuit praktijkgericht onderzoek het meest urgent is.
+ 
+Vooral de hedendaagse hoog-risicojeugd wordt geassocieerd met de gesignaleerde ‘verjonging’ en ‘verharding’ van crimineel gedrag. Naast een ernstig probleem, zij het beperkt in omgang, is het ook een specifiek probleem. In navolging daarvan specificeren we de doelgroep van het lectoraat aan de hand van de volgende kenmerken:
+ 
+
+- Vooral jongens
+- 12-17 jeugd (verjonging)
+- 18-22 jongvolwassen (verharding)
+- Achtergestelde gezinnen
+- Achterstandsbuurt
+- Problematische jeugdgroep
+- Social media profiel gericht op straatcultuur (niet allemaal)
+- School: problemen en onveilig
+- Gedragsproblemen en beperkingen (niet allemaal, en niet allemaal even veel)
+- Vroeger of later (jeugd)detentie – helpt vaak niet
+- Vroeger of later (jeugd)zorg vrijwillig of in gedwongen kader – zorg of hulp weigeren/mijden
+- Plegen High Impact Crimes (met alles wat we daarvan weten: …): jong beginnen is vaker veelpleger worden, gaan langer door, meer strafzaken en meer tijd in detente, criminele carrière begint jong, straatrovers het jongst, woninginbrekers het actiefst (als je ze kan scheiden)
+- Zijn/worden veelplegers waarbij vooral geweld en wapens een rol spelen
+
+En binnen de doelgroep hedendaagse hoog-risicojeugd die HIC crimes pleegt, onderscheiden we een subgroep die mogelijk doorgroeit tot de georganiseerde (drugs)criminaliteit.
 
 #### Job to Be Done
 
@@ -133,6 +160,19 @@ https://straatagressie.nl/Straatcultuurtraining/
 ### 1.3 Deskresearch & Doelgroeponderzoek
 
 ### 1.4 Make me Think
+
+#### Ethische dilemma’s
+
+Het doel van onze TLE opdracht is om door middel van technologie het inlevingsvermogen van professionals op jeugdcriminaliteit te vergroten. De rede dat het inlevingsvermogen van professionals vergroot moet worden is omdat door de manier waarop professionals nu omgaan met het helpen van jonge criminelen aan een betere toekomst nog niet helemaal de perfecte manier is. Professionals en jonge criminelen werken niet zo goed samen omdat er een groot cultuurverschil in zit. Zo hebben de professionals een goede baan en zien ze een mooie toekomst voor zich, maar leven veel jonge criminelen op straat en leven van dag tot dag. Als zo’n jeugdcrimineel wordt opgepakt is het de bedoeling dat er een professional met hem bezig gaat zijn om hem weer op het juiste pad te zetten en zijn toekomst helder in te gaan laten zien, maar doordat er toch een stukje respect en vertrouwen mist tussen beide partijen is het lastig voor de professionals om zijn/haar cliënten zo goed mogelijk te helpen. 
+
+Het is daarom de bedoeling om te zorgen dat professionals een goed beeld zullen krijgen van hoe zo’n jeugdcrimineel nou leeft. Een groot voordeel van het hebben van inlevingsvermogen door professionals is dat zij veel beter een gesprek met hun cliënt kunnen afstemmen op waar hij vandaan komt en wat hij allemaal heeft meegemaakt, daarnaast zal het er dan ook gelijk voor zorgen dat er vanaf de jeugdcrimineel naar de professional ook een stukje vertrouwen en respect komen. Daarnaast is het goed als de jeugdcrimineel een stukje vertrouwen krijgt in de professional, want dat zal er voor zorgen dat een jeugdcrimineel meer van zijn verhaal zal durven delen. Zo kan er een band tussen professional en jeugdcrimineel worden opgebouwd en kan de professional makkelijker en op een betere manier de cliënt helpen. Daarnaast is het inlevingsvermogen niet alleen goed voor het opbouwen van een band tussen professional en jeugdcrimineel, maar is het ook goed voor het resultaat wat het uiteindelijk zal geven. Er bestaat namelijk altijd een kans dat een jeugdcrimineel na een traject met een professional weer terug de wijde wereld in gaat, maar dan weer terugkeert naar de criminaliteit. De reden hiervoor is dat zonder inlevingsvermogen van professionals de gesprekken die zij hebben met jeugdcriminelen te algemeen en oppervlakkig kunnen zijn (Het heeft dus te weinig inhoud met betrekking tot het leven op straat en de jeugdcrimineel zelf). Door het vergroten van inlevingsvermogen kunnen professionals beter gesprekken met inhoud voeren en de jeugdcrimineel het gevoel geven dat ze gezien en gehoord worden. Gesprekken met meer inhoud en meer naar de jeugdcrimineel gericht zullen meer aan slaan en zal er voor zorgen dat de kans groter is dat hij/zij een heldere toekomst tegemoet ziet dan dat hij weer terug zal keren naar de criminaliteit.
+
+Aan de andere kant hangt er ook een nadeel aan het vergroten van inlevingsvermogen. Het komt namelijk momenteel al vaak voor dat professionals te maken krijgen met agressieve cliënten “80% van de professionals in de jeugdzorg kreeg het afgelopen jaar te maken met (sexuele) intimidatie, bedreiging, agressie of geweld. Bron:https://safe-app.nl/veilig-werken-in-de-jeugdzorg/”. Het vergroten van het inlevingsvermogen kan hierdoor wat aan de gevaarlijke kant zijn. Het is goed als een cliënt zich door een goed verhaal zich gezien en gehoord kan voelen, maar er zijn ook cliënten die dit anders kunnen interpreteren. Het kan namelijk zo zijn dat je een agressieve cliënt hebt waaraan je een heel mooi verhaal kunt vertellen over dat je weet hoe het leven is op straat en dat je het gevoel kent, maar sommige cliënten zullen heel anders kijken naar professionals. Zij zullen denken dat je er niet bent om ze te helpen en dat je de jeugd alleen maar ziet als criminelen en wat vervolgens zal resulteren in het feit dat ze zullen denken dat professionals denken dat het leven op straat heel simpel is en dat jij dat als professional zo even kan voelen hoe het is om op straat te leven/ crimineel bent. Om die reden zullen sommige cliënten dus agressief kunnen reageren en zal het nog lastiger zijn om deze jongeren te helpen
+
+##### Conclusie
+
+In dit vraagstuk / dilemma zal dus een goede tussenweg moeten worden gevonden. De jongeren moeten zich veilig en vertrouwd voelen bij een professional, maar tegelijkertijd moet de veiligheid van een professional ook goed zijn. Er kunnen dus niet zomaar dingen gezegd of gedaan worden, maar professionals moeten wel weten wat deze jongeren op straat en in de criminaliteit meemaken om de jeugdcriminaliteit te verhelpen op een goede manier en deze jongeren een heldere toekomst geven. 
+
   
 ### 1.5 Inspiratie & Insights
 
