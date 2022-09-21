@@ -1,10 +1,20 @@
 # TLE1 Teamportfolio
+
+<br><br><br><br>
+
 Hogeschool Rotterdam   
 Groep 2
+
+<br><br><br><br>
 
 Versie Sprint 0  
 2022-09-21
 
+<br><br><br><br>
+
+
+<br><br><br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ### Inhoudsopgave
 
@@ -36,11 +46,13 @@ Versie Sprint 0
       - [Ethische dilemma’s](#ethische-dilemmas)
         - [Conclusie](#conclusie-1)
       - [Eigen perspectief](#eigen-perspectief)
+        - [Conclusie](#conclusie-2)
       - [Make Me Think](#make-me-think)
         - [Casussen:](#casussen)
       - [Perspectieven:](#perspectieven)
       - [Waarden:](#waarden)
       - [Speelveld:](#speelveld)
+      - [Conclusie](#conclusie-3)
     - [1.5 Inspiratie & Insights](#15-inspiratie--insights)
       - [Wall of inspiration](#wall-of-inspiration)
       - [WWWWWH](#wwwwwh)
@@ -71,6 +83,9 @@ Versie Sprint 0
     - [Bijlage E (Showcase pagina)](#bijlage-e-showcase-pagina)
   - [Notes](#notes)
 
+<br><br><br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ### Algemeen 
 
 Opdrachtgever: Jan Dirk de Jong (Lectoraat HS Leiden)  
@@ -100,11 +115,21 @@ Sprint 3 weken
 W1 di: Retrospective  
 W3 di: Sprint review   
 
+<br><br><br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ### Links
+
+
+<br><br><br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ## Hoofdstuk 1
 
 ### 1.1 Inleiding
+
+<br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ### 1.2 Intake & Marktanalyse
 
@@ -202,6 +227,10 @@ https://straatagressie.nl/Straatcultuurtraining/
 
 <!-- TODO: add concrete conclusie dit van onderdeel -->
 
+
+<br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ### 1.3 Deskresearch & Doelgroeponderzoek
 
 #### Keyword research
@@ -226,6 +255,10 @@ https://straatagressie.nl/Straatcultuurtraining/
 
 ##### Uitvoering
 
+
+<br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ### 1.4 Make me Think
 
 #### Ethische dilemma’s
@@ -244,6 +277,10 @@ In dit vraagstuk / dilemma zal dus een goede tussenweg moeten worden gevonden. D
 #### Eigen perspectief
 
 Als betrokken technoloog heb je je eigen perspectief met betrekking tot opdrachten, in tegenstelling tot anderen ben jij niet zo bezig met het ontwerpen of interviewen van personen. Een betrokken technoloog is iemand die vooral rekening houd met actualiteit, ethische vraagstukken en de maatschappij. Een betrokken technoloog zal daarom ook vaak de vraag stellen waarom we op een manier zo iets doen. Ook houdt de betrokken technoloog zich bezig met de normen en waarden van de maatschappij en daarnaast ook met vraagstukken met betrekking tot privacy, comfort, veiligheid, etc… Door deze vraagstukken te beantwoorden in een project zorgt het ervoor dat een nieuw ontwikkeld product goed valt binnen de maatschappij. Als er bijvoorbeeld niet rekening zou worden gehouden met de privacy of comfort van mensen zal je product niet zo snel als goed worden beschouwd, maar vinden mensen het eerder een probleem worden. Om dit in goede lijnen te kunnen sturen is daar een betrokken technoloog voor. 
+
+##### Conclusie
+
+<!-- TODO: add concrete conclusie dit van onderdeel -->
 
 #### Make Me Think
 
@@ -273,7 +310,15 @@ Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 #### Speelveld:
 
 <!-- TODO: insert pic -->
-  
+
+
+#### Conclusie
+
+<!-- TODO: add concrete conclusie dit van onderdeel -->
+
+<br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ### 1.5 Inspiratie & Insights
 
 #### Wall of inspiration
@@ -294,9 +339,21 @@ Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 
 <!-- TODO: insert from miro-->
 
+
+<br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ### 1.6 Technologisch onderzoek & eerste experiment(en)
 
+
+<br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ### 1.7 Conclusies, aanbevelingen en vervolgstappen
+
+
+<br><br><br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ## Hoofdstuk 2
 
@@ -314,6 +371,10 @@ Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 
 ### 2.7 Conclusies, aanbevelingen en vervolgstappen
 
+
+<br><br><br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ## Hoofdstuk 3
 
 ### 3.0 Inleiding
@@ -324,7 +385,15 @@ Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 
 ### 3.3 Development sprint iteratie 3
 
+
+<br><br><br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 ## Hoofdstuk 4
+
+
+<br><br><br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ## Bijlages
 
@@ -340,6 +409,9 @@ Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 
 ### Bijlage E (Showcase pagina)
 
+
+<br><br><br><br>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ## Notes
 https://www.hsleiden.nl/lvb-en-risicovol-gedrag

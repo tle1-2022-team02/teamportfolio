@@ -8,24 +8,34 @@ Dit is het samenwerkingscontract van onze projectgroep binnen het project “Pro
 2.1 Elke TLE dag start met een gezamenlijke standup (met of zonder coach).
 
 2.2 Op dinsdag na de standup laat iedereen tot in detail zien waar diegene aan gewerkt heeft. 
+
 2.3 Mochten er samenwerkingsopdrachten gemaakt worden dan doen we dit standaard op dinsdag na de standup. (of we spreken een ander moment af)
 
 2.4 We geven tussendoor een update wanneer je iets afgerond of een nieuwe versie ervan hebt. (Via whatsapp)
 
+
 2.5 Tijdsopbouw: 
-2.5.1 Iedereen besteed in totaal minimaal 18 uur per week aan TLE & TLE gerelateerde opdrachten/activiteiten.
+
+2.5.1 Iedereen besteed in totaal minimaal 18 uur per week aan TLE & TLE gerelateerde opdrachten/activiteiten.   
+
 2.5.2 6 Uur hiervan vind plaats op de vaste tle momenten, de andere 12 (zelfstudie) uren mogen zelf worden ingedeeld.
 (Het handigst is wanneer deze zelfstudie uren vooral na de vaste tle momenten zijn zodat het makkelijker is om met elkaar in contact te komen.)
+
 2.5.3 Wanneer er een samenwerkings activiteit op locatie gepland moet worden vallen deze uren onder de zelfstudie uren.
+
 2.5.4 Er mag altijd op locatie gewerkt worden.
 
 2.6 Als iemand niet aanwezig kan zijn of pas later aanwezig kan zijn, moet dit zo vroeg mogelijk doorgegeven worden aan het team.
+
 2.7 Als iemand niet naar locatie kan komen maar wel kan werken, gelden nog steeds dezelfde algemene afspraken maar werkt diegene online.
+
 2.8 Mocht iemand fysiek en online niet aanwezig kunnen zijn, dient degene zijn werk op een ander moment in te halen. 
+
 2.9 Als er een cruciaal item is wat iemand niet (op dat moment) kan uitvoeren door welke reden dan ook, moet hier met overleg een oplossing op verzonnen worden (bijv dat 2 items omgeruild worden).
 
 
 2.10 De items worden aan het begin van de sprint verdeeld onder de groepsgenoten. (Over het algemeen maakt elk persoon de bijbehorende opdrachten van hun specialize me richting.)
+
 2.11 Mocht de verdeling van items niet goed zijn word dit in een stand up aangekaart en bespreken we hier een oplossing voor.
 
 2.12 Andere conflicten binnen het team worden eerst onderling besproken, mocht dit tot niets leiden wordt de coach geraadpleegd.
