@@ -1,8 +1,9 @@
 # Samenwerkingsovereenkomst
-Versie: 2022-09-14
+*Versie: 2022-09-20 (editted by Lucas)*
 
 ## 1. Inleiding
 Dit is het samenwerkingscontract van onze projectgroep binnen het project “Professionals laten inleven in de leefwereld van risicojeugd” In dit document staan alle afgesproken en besproken regels die van toepassing zijn na akkoord door alle groepsleden. Het doel van dit document is het beschrijven van en het houden aan de afspraken binnen deze projectgroep. 
+
 ## 2. Omgang / Processen
 2.1 Elke TLE dag start met een gezamenlijke standup (met of zonder coach).
 
@@ -45,6 +46,7 @@ Dit is het samenwerkingscontract van onze projectgroep binnen het project “Pro
 3.5 Ik zorg ervoor dat mijn vooraf toegewezen/uitgekozen sprint items aan het einde van de sprint af zijn volgens de DoD criteria.
 
 3.6 Wanneer een van deze dingen niet lukt vanwege (externe) omstandigheden moet dat van te voren aangegeven worden om een alternatief te vinden.
+
 ## 4. Consequenties
 4.1 Elke keer wanneer een teamlid niet op tijd is moet diegene een rondje koffie aan het groepje & coach doen.
 
@@ -55,6 +57,7 @@ Dit is het samenwerkingscontract van onze projectgroep binnen het project “Pro
 
 4.5 Bij 2 gele kaarten bespreken we (met de coach) en besluiten of een rode kaart mag worden gegeven. 
 4.6 Rode kaart = student wordt uit de groep gezet en moet een individuele herkansing doen van het project
+
 ## 5. Definition of Done
 
 Staat in drive/miro/github
@@ -65,6 +68,7 @@ Beschreven op de sprint planning log
 Gecheckt & Besproken door alle teamleden
 
 Toegevoegd in het teamportfolio bestand
+Overal waar onderzoek te pas komt moeten er concrete conclusies bevatten.
 
 (Kan in de loop van het project nog aangepast worden)
 
@@ -80,6 +84,7 @@ Handtekening:
 
 
 
+
 Naam: Milan Kautz
 Datum:
 Locatie:
@@ -87,10 +92,13 @@ Handtekening:
 
 
 
+
+
 Naam: Raiesa Ghauharali
 Datum: 
 Locatie:
 Handtekening:
+
 
 
 
@@ -107,9 +115,6 @@ Naam: Caspar Bosch
 Datum:
 Locatie:
 Handtekening:
-
-
-
 
 
 

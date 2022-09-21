@@ -3,11 +3,44 @@ Hogeschool Rotterdam
 Groep 2
 
 Versie Sprint 0  
-2022-09-05
+2022-09-21
 
 
 ### Inhoudsopgave
 
+- [TLE1 Teamportfolio](#tle1-teamportfolio)
+    - [Inhoudsopgave](#inhoudsopgave)
+    - [Algemeen](#algemeen)
+    - [Links](#links)
+  - [Hoofdstuk 1](#hoofdstuk-1)
+    - [1.1 Inleiding](#11-inleiding)
+    - [1.2 Intake & Marktanalyse](#12-intake--marktanalyse)
+      - [Welke Markt Opereert de opdrachtgever](#welke-markt-opereert-de-opdrachtgever)
+      - [Stakeholders](#stakeholders)
+      - [Doelgroep](#doelgroep)
+      - [Job to Be Done](#job-to-be-done)
+      - [Welke producten/diensten/services vervullen dezelfde job](#welke-productendienstenservices-vervullen-dezelfde-job)
+      - [Andere Bronnen](#andere-bronnen)
+      - [Conclusie](#conclusie)
+    - [1.3 Deskresearch & Doelgroeponderzoek](#13-deskresearch--doelgroeponderzoek)
+    - [1.4 Make me Think](#14-make-me-think)
+    - [1.5 Inspiratie & Insights](#15-inspiratie--insights)
+    - [1.6 Technologisch onderzoek & eerste experiment(en)](#16-technologisch-onderzoek--eerste-experimenten)
+    - [1.7 Conclusies, aanbevelingen en vervolgstappen](#17-conclusies-aanbevelingen-en-vervolgstappen)
+  - [Hoofdstuk 2](#hoofdstuk-2)
+  - [Hoofdstuk 3](#hoofdstuk-3)
+    - [3.0 Inleiding](#30-inleiding)
+    - [3.1 Development sprint iteratie 1](#31-development-sprint-iteratie-1)
+    - [3.2 Development sprint iteratie 2](#32-development-sprint-iteratie-2)
+    - [3.3 Development sprint iteratie 3](#33-development-sprint-iteratie-3)
+  - [Hoofdstuk 4](#hoofdstuk-4)
+  - [Bijlages](#bijlages)
+    - [Bijlage A (Debrief & Samenwerkingcontract)](#bijlage-a-debrief--samenwerkingcontract)
+    - [Bijlage B (Sprint Reviews & Retros)](#bijlage-b-sprint-reviews--retros)
+    - [Bijlage C (Roadmap, Product Backlog met Userstories & Sprintplanning)](#bijlage-c-roadmap-product-backlog-met-userstories--sprintplanning)
+    - [Bijlage D (Opleverdocument)](#bijlage-d-opleverdocument)
+    - [Bijlage E (Showcase pagina)](#bijlage-e-showcase-pagina)
+  - [Notes](#notes)
 
 ### Algemeen 
 
@@ -45,6 +78,8 @@ W3 di: Sprint review
 ### 1.1 Inleiding
 
 ### 1.2 Intake & Marktanalyse
+
+*Versie 2022-09-21 (editted by Lucas)*
 
 #### Welke Markt Opereert de opdrachtgever
 
@@ -121,17 +156,17 @@ https://straatagressie.nl/Straatcultuurtraining/
 
 ## Bijlages
 
-### Bijlage A (Debrief)
+### Bijlage A (Debrief & Samenwerkingcontract)
 
-[Debrief Versie 1](a_debrief-v1.md)
+[Debrief Versie 1](bijlages/bijlage-a/debrief-v1.md)
 
-### Bijlage B
+### Bijlage B (Sprint Reviews & Retros)
 
-### Bijlage C
+### Bijlage C (Roadmap, Product Backlog met Userstories & Sprintplanning)
 
-### Bijlage D
+### Bijlage D (Opleverdocument)
 
-### Bijlage E
+### Bijlage E (Showcase pagina)
 
 
 ## Notes
