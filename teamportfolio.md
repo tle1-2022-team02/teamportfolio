@@ -3,6 +3,7 @@
 <br><br><br><br>
 
 Hogeschool Rotterdam   
+Creative Media & Game Technologies
 Groep 2
 
 <br><br><br><br>
@@ -12,6 +13,8 @@ Versie Sprint 0
 
 <br><br><br><br>
 
+Inleving in Risicojeugd product
+In opdracht van: Jan Dirk de Jong (Lectoraat HS Leiden)  
 
 <br><br><br><br>
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
@@ -49,10 +52,10 @@ Versie Sprint 0
         - [Conclusie](#conclusie-2)
       - [Make Me Think](#make-me-think)
         - [Casussen:](#casussen)
-      - [Perspectieven:](#perspectieven)
-      - [Waarden:](#waarden)
-      - [Speelveld:](#speelveld)
-      - [Conclusie](#conclusie-3)
+        - [Perspectieven:](#perspectieven)
+        - [Waarden:](#waarden)
+        - [Speelveld:](#speelveld)
+        - [Conclusie](#conclusie-3)
     - [1.5 Inspiratie & Insights](#15-inspiratie--insights)
       - [Wall of inspiration](#wall-of-inspiration)
       - [WWWWWH](#wwwwwh)
@@ -88,6 +91,8 @@ Versie Sprint 0
 
 ### Algemeen 
 
+Hoofdvraag: Hoe kan technologie bijdragen aan het vermogen van betrokken professionals om zich in te leven in de leefwereld van risicojeugd (die ernstige en gewelddadige delicten plegen)?
+
 Opdrachtgever: Jan Dirk de Jong (Lectoraat HS Leiden)  
 Coach: Jurgen
 
@@ -96,8 +101,6 @@ Coach: Jurgen
 - Milan Kautz (B: Betrokken)
 - Caspar Bosch (C: Ontwerpend)
 - Lucas van der Vegt (D: Ondernemend)
-
-Hoofdvraag: Hoe kan technologie bijdragen aan het vermogen van betrokken professionals om zich in te leven in de leefwereld van risicojeugd (die ernstige en gewelddadige delicten plegen)?
 
 **Sprint Planning**
 - Sprint 0: Analyseren
@@ -295,24 +298,24 @@ Door het gebruiken van onze game weet een professional de achtergrond van een je
 
 Door het gebruik van onze game leren de professionals (onbedoeld) jeugdcriminelen op straat ook te herkennen en beginnen zonder enige aanleiding voor criminele daden een gesprek over hun achtergrond. 
 
-#### Perspectieven:
+##### Perspectieven:
 - Professionals
 - Ontwerpers van de game
 - Jongeren (jeugdcriminelen)
 
 
-#### Waarden:
+##### Waarden:
 Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 
 
 
 
-#### Speelveld:
+##### Speelveld:
 
 <!-- TODO: insert pic -->
 
 
-#### Conclusie
+##### Conclusie
 
 <!-- TODO: add concrete conclusie dit van onderdeel -->
 
