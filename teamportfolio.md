@@ -9,7 +9,7 @@ Groep 2
 <br><br><br><br>
 
 Versie Sprint 0  
-2022-09-21
+2022-09-22
 
 <br><br><br><br>
 
@@ -28,8 +28,8 @@ In opdracht van: Jan Dirk de Jong (Lectoraat HS Leiden)
   - [Hoofdstuk 1](#hoofdstuk-1)
     - [1.1 Inleiding](#11-inleiding)
     - [1.2 Intake & Marktanalyse](#12-intake--marktanalyse)
-      - [Eerste Gesprek](#eerste-gesprek)
         - [Vragenlijst](#vragenlijst)
+      - [Eerste Gesprek](#eerste-gesprek)
         - [Uitvoering](#uitvoering)
       - [Welke Markt Opereert de opdrachtgever](#welke-markt-opereert-de-opdrachtgever)
       - [Stakeholders](#stakeholders)
@@ -42,9 +42,23 @@ In opdracht van: Jan Dirk de Jong (Lectoraat HS Leiden)
       - [Conclusie](#conclusie)
     - [1.3 Deskresearch & Doelgroeponderzoek](#13-deskresearch--doelgroeponderzoek)
       - [Keyword research](#keyword-research)
-      - [Interview](#interview)
+      - [Interview/Survey](#interviewsurvey)
         - [Vragen](#vragen)
         - [Uitvoering](#uitvoering-1)
+        - [Interview Opdrachtgever](#interview-opdrachtgever)
+        - [Conclusie Interview](#conclusie-interview)
+      - [Analyse](#analyse)
+        - [Verbanden Analyse](#verbanden-analyse)
+        - [Tegenliggen Analyse](#tegenliggen-analyse)
+        - [Inzichten](#inzichten)
+          - [Hoe jongeren zich voelen in de samenleving](#hoe-jongeren-zich-voelen-in-de-samenleving)
+          - [Misverstanden tussen professionals en jongeren](#misverstanden-tussen-professionals-en-jongeren)
+          - [Technologische invloed](#technologische-invloed)
+          - [Bekende hulpmiddelen voor professionals om jongeren beter te begrijpen](#bekende-hulpmiddelen-voor-professionals-om-jongeren-beter-te-begrijpen)
+        - [Conclusies](#conclusies)
+          - [Doelgroep onderzoek](#doelgroep-onderzoek)
+          - [Wat betekent deze conclusies voor de Design challenge?](#wat-betekent-deze-conclusies-voor-de-design-challenge)
+        - [Uiteindelijke Conclusie](#uiteindelijke-conclusie)
     - [1.4 Make me Think](#14-make-me-think)
       - [Ethische dilemma’s](#ethische-dilemmas)
         - [Conclusie](#conclusie-1)
@@ -58,6 +72,9 @@ In opdracht van: Jan Dirk de Jong (Lectoraat HS Leiden)
         - [Conclusie](#conclusie-3)
     - [1.5 Inspiratie & Insights](#15-inspiratie--insights)
       - [Wall of inspiration](#wall-of-inspiration)
+        - [Maatschappelijk](#maatschappelijk)
+        - [Professionals](#professionals-1)
+        - [Risicojeugd](#risicojeugd-1)
       - [WWWWWH](#wwwwwh)
       - [Insights](#insights)
       - [Frame Your Design](#frame-your-design)
@@ -136,23 +153,76 @@ W3 di: Sprint review
 
 ### 1.2 Intake & Marktanalyse
 
-*Versie 2022-09-21 (editted by Lucas)*
-
-#### Eerste Gesprek
+*Versie 2022-09-21*
 
 ##### Vragenlijst
 
 *Vragenlijst bedacht en uitgekozen met het hele team voordat we het eerste gesprek hadden*
 
-Wat zijn de stakeholders en wie zijn het belangrijkst (binnen de huidige methode)
-Hoe is de werkwijze momenteel van het monitoren van risicojeugd
-Wat is momenteel de grootste uitdaging / probleem
-Hebben zij concurrentie? Zo ja, wat onderscheidt hen van de concurrentie en hoe willen wij hen ‘verslaan’?
-Wat zijn de wensen / wat verwacht de opdrachtgever
-Zijn er al andere bestaande technologieën die al deels jullie hoofdvraag beantwoorden, maar niet goed genoeg zijn voor jullie om te gebruiken?
-Wat voor boodschap willen wij overbrengen aan de doelgroep?
-Zijn er bepaalde (technische) zaken waar wij rekening mee moeten houden?
-Is geld van belang
+<!-- TODO: insert pic van vragenproces -->
+
+Uiteindelijke gekozen lijst van belangrijke vragen:
+
+- Wat zijn de stakeholders en wie zijn het belangrijkst (binnen de huidige methode)?
+- Hoe is de werkwijze momenteel van het monitoren van risicojeugd?
+- Wat is momenteel de grootste uitdaging / probleem?
+- Hebben zij concurrentie? Zo ja, wat onderscheidt hen van de concurrentie en hoe willen wij hen ‘verslaan’?
+- Wat zijn de wensen / wat verwacht de opdrachtgever?
+- Zijn er al andere bestaande technologieën die al deels jullie hoofdvraag beantwoorden, maar niet goed genoeg zijn voor jullie om te gebruiken?
+- Wat voor boodschap willen wij overbrengen aan de doelgroep?
+- Zijn er bepaalde (technische) zaken waar wij rekening mee moeten houden?
+- Is geld van belang?
+
+#### Eerste Gesprek
+
+Op dinsdag 6 september heb ik samen met mijn teamgenoten een presentatie gekregen van onze opdrachtgever Jan Dirk de Jong. Na de presentatie hebben we ook nog een moment gekregen om vragen te stellen. Hieronder is een kleine samenvatting van de gehouden presentatie en de beantwoorde vragen:
+
+Presentatie + Interview opdrachtgever
+naam: Jan Dirk
+beroep: lectoraat
+
+Jan dirk vind dat niemand probleemjongeren echt begrijpt en daarom is hij zelf met hen gaan praten. Hij heeft een boek geschreven genaamd ‘kapot moeilijk’. 
+Medewerkers zullen de jongeren beter moeten begrijpen om ze echt te kunnen helpen. Hij benoemt daarbij specifiek: hulpverleners, jongerenwerk en de politie.
+
+Jan Dirk stelt de vraag:
+
+Hoe kan technologie bijdragen aan het vermogen van betrokken professionals om zich in te leven in de leefwereld van risicojeugd?
+
+belangrijke punten die jan Dirk vermeld zijn:
+
+- Het gevoel dat de risico jeugd begrepen, gezien en gehoord wordt. (Oplossing voor inleven) Inclusie en identiteit.
+- Verbondenheid in werkrelatie
+- preventie
+- Zorg en nazorg van de omgeving
+- Elk kind heeft een ander achtergrond met rede voor probleem.
+- De situaties zijn in sommige gevallen te zwaar voor een wijkagent en te licht voor een recherche.
+- Beïnvloed door slecht beeld in de media.
+
+
+
+Heel veel professionals hebben de beste bedoelingen en achtergrond maar geen contact en inclusiviteit. (stop! hou op! vb.)
+
+hoe krijgen de jongeren weer het gevoel van vertrouwen in de samenleving?
+hoe voelen ze zich erkend en niet “anders”. (bijv. allochtoon) 
+groter netwerk, groter druk
+
+
+Leeftijdscattegorie van de jongeren: vanaf 12 maar er zijn uitschieters en het eindigt ergens rond 23. Jongens, ontwikkelen later dan vrouwen. (jongeren zijn niet het doelgroep.)
+
+De medewerkers moeten het begrijpen. Technologie wordt gebruikt door de professionals. hun moeten de jongeren kunnen begrijpen.
+
+Is er al een product dat bestond/bestaat: 
+
+Bedrijf: strijder, opgericht door jonge mensen die uit detentie zijn gekomen die een spel hebben gemaakt: snitchen of strijden. Equip program. 
+
+Mislukt omdat:
+De makers zijn kinderachterachtig van karakter en zuigen zich niet goed in de diepte in. Ze kunnen zich niet goed inleven. Er is geen realiteit in het spel omdat elke leeftijd andere behoeftes heeft. Ook is het te eenvoudig, niet bestaand effectief. 
+
+werkwijze: is er nog niet. Zwaar voor de wijkagent en te licht voor een recherche. ze gebruiken meet manieren om context te krijgen van de situatie.
+
+Jan Dirk gaf het spel: Last of us als voorbeeld.
+
+
 
 ##### Uitvoering
 
@@ -236,11 +306,79 @@ https://straatagressie.nl/Straatcultuurtraining/
 
 ### 1.3 Deskresearch & Doelgroeponderzoek
 
+*Versie 2022-09-21*
+
+In het Desk research & doelgroeponderzoek zijn er onderdelen waar de onderzoekende technoloog de leiding in neemt. Hierbij is er onderzoek gedaan naar de doelgroep en de context. En zijn er interviews afgelegd met de opdrachtgever en het doelgroep. Vervolgens zijn de resultaten van het onderzoek verwerkt in de wall of inspiration en zijn er onderling verbanden gelegd waaruit belangrijke inzichten zijn gehaald. Deze zijn uiteindelijk besproken waaruit we conclusies hebben getrokken die tot betrekking zijn bij het maken van ons product.
+
 #### Keyword research
 
-<!-- TODO: raiesa & bilal: add de eigen lijst met bronnen (volgens apa) -->
+Op basis van de gekregen informatie heb ik een lijst opgesteld met steekwoorden, dit heb ik gedaan zodat ik gericht op zoek kon naar informatie. Ik ben als eerst opzoek gegaan naar meer context en ben me daarna meer gaan verdiepen op het doelgroep. Dit heb ik gedaan om te kijken wat voor professionals het meest te maken hebben met risicojeugd.
 
-#### Interview
+keywords:
+
+- risicojeugd
+- criminaliteit
+- inclusie
+- identiteit
+- omgeving
+- kapot moeilijk (boek van Jan Dirk)
+- professionals
+- hulpverleners
+- jongerenwerk
+- politie
+- identiteit
+- jeugdgevangenis
+- betrokkenheid
+- snitchen of strijden (eerder bestaand product)
+- geweld
+
+Tijdens het onderzoeken heb ik informatie gevonden dat maatschappelijk is, professionals betrekt of jongeren. Ik heb gezocht met behulp van gegeven tips zoals: “” haakjes, -(woord) en meer zodat ik mijn research zo specifiek mogelijk kon maken. Ik heb gezorgd dat ik recente en betrouwbare bronnen heb gekregen maar ook bronnen waar jongeren hun mening in delen en ook waar professionals hun mening in delen om zo inzicht te krijgen over hoe de 2 groepen erover denken. Mijn uiteindelijke resultaten en ook die van hun heb ik samen met mijn teamgenoten besproken en die hebben we in een wall of inspiration gezet.
+
+
+<!-- TODO: insert pics wall of inspiration -->
+<!-- TODO: insert apa lijst met bronnen wall of inspiration -->
+
+
+#### Interview/Survey
+
+Na mijn keyword research ben ik erachter gekomen dat het doelgroep professionals heel groot is, en hebben we besloten na een gesprek met onze coach en een interview met de opdrachtgever dat we het ons product gaan richten op hulpverleners. 
+
+Het volgende dat we moesten doen is een interview houden met professionals binnen ons doelgroep. Onder de term ‘hulpverleners’ vallen de volgende beroepen:
+
+- De mentor, een leraar of een zorgfunctionaris
+- Schoolmaatschappelijk werk, schoolpsycholoog, psycholoog
+- Jeugdgezondheidszorg
+- Huisarts
+- Gemeentelijk jeugd-, buurt, sociaal- of wijkteam
+- Geestelijke gezondheidszorg (ggz)
+
+Er zijn er meer maar dit zijn de beroepen waar ik me op gefocust heb. Op basis van deze beroepen en mijn voorgaande onderzoek heb ik een lijst gemaakt met interviewvragen die mijn onderzoek zal aanvullen om tot meer specifieke conclusies te komen.
+
+Interview vragen:
+
+1. Kunt u uzelf voorstellen en benoemen wat uw beroep is?
+2. Wat is uw functie
+3. Hoelang heeft u al ervaring met de risicojeugd
+4. Met wat voor soort jongeren heeft u te maken binnen uw functie?
+5. Kunt u ze begrijpen waarom risicojeugd zich zo gedragen?
+6. Hoe helpt uw instantie de risicojeugd?
+7. Hoe effectief is de behandeling die jullie aanbieden?
+8. Ziet u regelmatig risicojongeren terug komen?
+9. Hoe zou u de behandelingen aanpakken als u het anders kon doen?
+10. Wat voor soort criminaliteit komt het meest voor bij uw beroep?
+11. Welke methode gebruikt u om deze jongeren te helpen? In tot hoever is deze methode effectief?
+12. Wat voor manier gebruikt u als deze methode niet werkt?
+13. Hoe vind u dat jongeren u behandelen? kunt u dit gedrag verklaren?
+14. Heeft u zelf het idee dat u jongeren begrijpt, en waarom?
+15. Buiten de jongeren zelf, verdiept u zich ook in hun achtergrond? Denk hierbij aan hun thuissituatie, etniciteit, geloof, omgeving etc.
+16. Zijn er jongeren met een situatie die u beter begrijpt dan jongeren met een andere situatie, en wat voor jongeren zijn dit dan? Waardoor denkt u dat dit komt?
+17. Hoe denkt u dat het inlevingsvermogen tussen u en een patiënt vergroot kan worden?
+(In het interview kan zelf nog doorgevraagd worden.)
+
+Ik heb contact gehad met verschillende hulpverleners 2 personen kunnen pas later wat na de 1e sprint valt dus vandaar dat ik de interviews met de hulpverleners zal houden in het 2e sprint. De interviewvragen zal dan worden ge-update zodat het aansluit op de tussentijdse  bevindingen van mij en mijn team.
+
+Wel hebben we nog een klassikale interview gehouden met onze opdrachtgever. De belangrijkste punten heb ik hieronder verwerkt. De rest is in een spraakmemo terug te vinden waarin ook de afgespeelde video door de opdrachtgever op memo is met de bijbehorende comments. 
+
 
 ##### Vragen 
 
@@ -258,6 +396,142 @@ https://straatagressie.nl/Straatcultuurtraining/
 
 ##### Uitvoering
 
+
+##### Interview Opdrachtgever
+
+Hoe ervaren de jongeren de samenwerking met de professionals en andersom? 
+
+Hier is moeilijk antwoord op te geven want dan ga je aannames maken. Er zijn best veel jongeren die het lastig vinden met professionals te praten. Ze hebben het moeilijk met professionals vertrouwen, denken dat ze genaaid worden op papier, gevoel dat ze niet begrepen worden en zeker als de professionals op afstand staan van hoe zij zijn opgegroeid en wat hun belevenissen zijn en wat ze hebben meegemaakt. Aan de andere kant als professionals hun best doen dan is de belevenis van die professionals ook niet okee. Want als je bij zulke jongeren komt (jongeren van de straat) dan hebben ze vaak een stugge houding naar de professionals toe. Als professionals dat op hun zelf betrekken dan denken ze zelf ook dat ze niet binnen dringen bij dit persoon maar hij of zij kan ook denken deze persoon is voor de 5e keer al gekomen terwijl ik er zo bij zit en dus vindt hij dat je nu al veel beter je best doet dan dat jij denkt dat hij over jou denkt. En die mismatch kan voor veel verwarring zorgen. 
+
+Met welke organisaties heb je te maken: De driehoek van de gemeente, openbaar ministerie, de politie, hulpverlening en nog meer. Ligt eraan met welk probleem de jongeren komen. Elk probleem vereist een ander professional.
+
+hoe worden de professionals op dit moment aangeleerd de risico jeugd te behandelen?
+
+Heel veel is nu gericht op de kennis die ze moeten hebben voor hun functie, minor lvb, jeugdcriminaliteit etc. Professionals worden veel volgens het boek aangeleerd maar dat is nog steeds belangrijk want hier komen ze in aanraking met belangrijke benodigdheden voor hun functie, zoals wetgeving het gaat dus om harde kennis. Het probleem is wel dat er minder aandacht wordt besteed voor het contact maken met de jeugd. Voor risicojeugd is net iets meer kennis zowel in theorie als in praktijk nodig om hun te begeleiden. Connecties maken moet verder ontwikkelen. Theorie en praktijk zijn belangrijk maar ook de accent op de theorie. Het is belangrijk om risicogebieden af te dekken. Het is voor jongeren niet fijn om zo benaderd te worden. Om angstcultuur te voorkomen moeten de risicogebieden worden afgedekt zodat het niet escaleert. 
+
+Hulpverleners, helpen jongeren als ze al die problemen hebben, en zorgen voor preventie van ergere criminaliteit. Het probleem is dat jongeren geen hulp willen. Dit komt omdat jongeren veel negatieve ervaringen hebben met professionals. Hoe geven we risicojeugd het gevoel van begrijpen, inclusiviteit etc. Hoe komen risico jongeren en professionals in een vertrouwelijke situatie.
+
+Zijn er ideeën vanuit jongeren om de kloof tussen hen en de professionals te verkleinen?
+
+jongeren hebben daar geen invloedrijke positie in. Ze kunnen ideeën hebben maar ze zijn afhankelijk van een situatie dat een organisatie hun aan het woord laat. dan hebben ze wel ideeën en dat komt erop neer neem meer moeite voor mij ga met wandelen een band maken en niet gelijk alles van papier halen en ergelijk erop in gaan, ga je verdiepen en serieus nemen. Jongeren die willen op een leuke manier connecten. professionals moeten luisteren en niet alles volgens het boekje ze moet meer verdiepen in hun. en niet aannames maken. 
+
+##### Conclusie Interview
+Vanuit de interviews kan ik op dit moment nog geen conclusies trekken omdat ik nog interviews moet houden met hulpverleners. Als ik de antwoorden van deze interviews heb kan ik ze visualiseren.
+
+<!-- TODO: add concrete conclusie dit van onderdeel -->
+
+
+#### Analyse
+
+In mijn team zijn er 2 onderzoekende technologen. Samen met mijn mede technoloog heb ik onze bevindingen genoteerd in miro. Hieruit hebben we verbindingen gemaakt en deze hebben we uiteindelijk ondergedeeld in inzichten. Ook hebben we tegen liggingen met elkaar verbonden om zo de verschillen eruit te halen.
+
+<!-- TODO: add pic van miro (analyse) -->
+
+*Groen is Raisa en rood is  Bilal.*
+
+##### Verbanden Analyse
+
+<!-- TODO: add pic van miro (verbanden analyse)-->
+
+*verbanden leggen*
+
+##### Tegenliggen Analyse
+
+<!-- TODO: add pic van miro (tegenliggen analyse)-->
+
+##### Inzichten
+
+###### Hoe jongeren zich voelen in de samenleving
+
+Risicojeugd voelt zich niet begrepen. Dit heeft verschillende redenen, denk hierbij aan school, thuis, werk, zorg en veiligheid.
+
+Iedereen heeft een andere achtergrond sommige krijgen geen steun van hun ouders, sommige hebben juist hele strenge ouders of sommige hebben alleen staande ouders.
+
+Vooral bij het laatste kunnen er financiële moeilijkheden ontwikkelen. Dit zorgt ervoor dat hun op de verkeerde pad komen en in een foute cirkel terecht komen.
+
+Door verschil in huishouden en etniciteit kan het zijn dat ze zich niet erbij horen en dat ze daardoor met jongeren omgaan die het zelfde zijn. Ze passen zich dan aan, aan de jongeren met wie ze om gaan.
+
+Ze belanden hierdoor in een situatie waar ze niet gemakkelijk uit kunnen zonder enige hulp. Door gebrek aan vertrouwen is het voor hun ook moeilijk om hulp te zoeken. En als ze hulp hebben is het moeilijk om die persoon te vertrouwen.
+
+In andere gevallen waar ze al een strafblad hebben is het nog moeilijker om zich aan te passen aan de samenleving en de gevoel te krijgen dat ze erbij horen. Dit komt omdat er altijd nog gediscrimineerd wordt tegen mensen met een strafblad.
+
+Hier komen we dus tot de conclusie dat de risicojeugd zich nog altijd niet betrokken zal voelen.
+
+
+
+###### Misverstanden tussen professionals en jongeren
+
+Jongeren hebben veel negatieve ervaringen met professionals. Volgens professionals komt dit omdat er geen wederzijds respect is. Maar volgens jongeren is dat omdat professionals niet in hun schoenen hebben gestaan.
+
+Jongeren willen een band bouwen en gehoord worden. Maar veel professionals passen theorie toe vanuit een boek. Wat afstandelijk overkomt bij jongeren.
+
+Professionals moeten proberen om de angstcultuur te overkomen. Dit doen ze door risicogebieden af te dekken. Zodat het niet escaleert maar jongeren vinden het niet leuk om face to face te staan met hun fouten.
+
+Ook is er een groot verschil tussen de risicojeugd en de hulpverleners op technische gebied. Dit komt door de generatie verschil en hun interesses op social media. Risicojeugd heeft een ander omgeving zowel als fysiek als online.
+
+Hier komen we dus tot de conclusie dat de grootste misverstand zit tussen perspectief, leeftijd en omgeving.
+
+###### Technologische invloed
+
+Jongeren worden beïnvloed door social media en hulpverleners zijn niet hiervan op de hoogte. Voor jongeren is online wel meer betrouwbaar dit komt omdat als ze anoniem hun verhaal kunnen delen ze weten dat het niet in foute handen kan komen. En dat hun omgeving niet bekend is met hun fouten.
+
+Al hoewel is het voor veel hulpverleners moeilijk om telefonisch te helpen. Omdat ze geen emoties kunnen af lezen. Waardoor ze niet kunnen zien wat de persoon het meest dwars zit.
+
+Toch is er in meerdere artikelen vermeld dat VR voor een grote inlevingsvermogen kan zorgen. Maar er is ook vermeld dat er voor veel professionals, waar onder hulpverleners, technologie een zwak punt is afhankelijk van de leeftijd.
+
+Hier komen we dus tot de conclusie dat door gebrek aan technologische kennis van professionals en verschil in generatie het moeilijk is voor professionals om connectie te maken met jongeren en deze te kunnen begrijpen.
+
+###### Bekende hulpmiddelen voor professionals om jongeren beter te begrijpen
+
+Zoals eerder vermeld is moet de risicojeugd meer betrokken worden in de samenleving. Wat eerder is gedaan is dat professionals jongeren betrokken hebben bij hun werk. Zo hebben wijkagenten jongeren meegenomen op hun werk, en hun hun taak laten uitvoeren.
+
+Zodat ze wederzijdse respect konden opbouwen. De risicojeugd vond dit leuk omdat dit hun een gevoel gaf van gezien en gehoord worden.
+
+Een ander hulpmiddel dat bekend staat bij psychologen is MST dit staat voor multi system therapie. Multisysteem Therapie (MST) is een intensieve gezinsbehandeling in de thuissituatie. MST richt zich op jongeren van 10 tot en met 18 jaar met ernstige gedragsproblemen en hun opvoeders.
+
+Een ander bekend mindset van een professional is dat ze willen dat het probleem wordt aangepakt bij de kern. Ze willen hierbij meer aandacht geven aan de school omgeving en de thuis omgeving.
+
+Een eerder benoemde hulpmiddel is VR dat een groter inlevingsvermogen kan creëren voor hulpverleners.
+
+Hier komen we dus tot de conclusie dat om te zorgen dat professionals jongeren beter begrijpen ze zich moeten verdiepen in hoe jongeren zich voelen d.m.v. hun achtergrond in rekening te houden.
+
+
+##### Conclusies
+
+Na onze keyword research en interviews hebben we een analyse gemaakt die we hebben gevisualiseerd. Hieruit hebben we verbanden gelegd waar we uiteindelijk inzichten uit hebben gehaald. Hieronder zal ik de gemaakte conclusies noteren.
+- Jongeren gaan het altijd nog lastig vinden om zich betrokken te voelen in de samenleving
+- Na dat jongeren op de goede pad zitten worden ze nog steeds niet geaccepteerd doordat ze in bezit zijn van een strafblad en worden niet aangenomen bij bedrijven
+- Jongeren kunnen makkelijker zichzelf uiten met mensen bij wie ze zich kunnen relateren. Dit is ook de reden waarom de professionals en jongeren geen makkelijke band kunnen creëren.
+- Je kan moeilijk een risicojeugd van de straat halen en hem in de goede richting duwen als je de theorie toepast vanuit een boek en niet uit praktijk.
+- De verschil van generatie en van leeftijd maakt het moeilijk voor professionals om een goede connectie te behouden met een risicojeugd
+- Het meenemen van de jeugd op werk of activiteiten doet ze goed. Hierdoor hebben ze het gevoel dat ze gehoord en gezien worden.
+- Als een professional hoef je niet per se de exacte verleden hebben gehad net zoals de risicojeugd. Ze willen alleen dat je ze kunt begrijpen, ze ziet, ze hoort en probeert in te leven.
+- Veel professionals moeten de problemen bij de kern aanpakken en niet later op de levensjaren.
+- VR kan een hele grote invloed hebben bij de professionals aangezien het al eerder heeft laten zien dat het de perfecte manier is om inlevingsvermogen te laten zien. Hiermee kunnen de professionals inleven in de risicojeugd.
+
+
+###### Doelgroep onderzoek
+
+In het allereerste interview met Jan Dirk zegt hij:” Medewerkers zullen de jongeren beter moeten begrijpen om ze echt te kunnen helpen.” Hij benoemt daarbij specifiek: hulpverleners, jongerenwerk en de politie. Hierna heb ik de keyword research gedaan. Hoewel ik bijna alle professionals ben tegengekomen was mij opgevallen dat professionals die op een dagelijkse basis met risicojeugd omgaan en zich moeten verdiepen in deze jongeren vooral hulpverleners zijn. Het is voor hun extra van belang dat ze een band kunnen opbouwen met de risicojeugd. En deze band moet voor een langere periode stand houden omdat ze dezelfde patiënt vaker zullen spreken. 
+
+later heb ik weer een interview gehad met de opdrachtgever waar opnieuw is verteld over de 3 specifieke professionals: hulpverleners, jongerenwerk en de politie. Dit keer vertelt hij erbij dat hulpverleners, jongeren helpen als ze al problemen hebben, en zorgen voor preventie van ergere criminaliteit. Wat confirmatie gaf op de research die ik had gedaan.
+
+Het doelgroep voor mijn team is dus professionals en dan specifiek hulpverleners omdat hun op lange termijn met risicojeugd werken die zich al in problemen bevinden.
+
+###### Wat betekent deze conclusies voor de Design challenge?
+
+Na een meeting gehouden te hebben met de Ontwerpende technoloog hadden we samen met z'n drieën gekeken welke mogelijkheden we hebben voor de Design challenge. We zijn samen door alle conclusies gelopen en hebben paar punten apart gehouden. Uit de meeting kwam dit naar voren:
+
+- Afhankelijk van leeftijd lopen professionals achter met technologie dus moet de applicatie niet te ingewikkeld zijn.
+- VR geeft een groter inlevingsvermogen voor professionals
+- De professionals moeten via de applicatie beter begrip kunnen krijgen over de verschillende achtergrond van de risicojeugd.
+- Professionals moeten leren via de applicatie om risicojeugd vertrouwen te geven.
+- De applicatie moet bij verschillende problemen de professional kunnen aansturen.
+
+
+##### Uiteindelijke Conclusie
+
+Uit onze interview met de opdrachtgever is duidelijk geworden dat onze doelgroep hulpverleners zijn. Door de grote kloof tussen generatie en achtergrond voelen risicojeugd zich niet betrokken en ze willen dat hulpverleners hun kant horen en begrijpen om inclusie te creëren.
 
 <br><br>
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
@@ -325,6 +599,92 @@ Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 ### 1.5 Inspiratie & Insights
 
 #### Wall of inspiration
+
+##### Maatschappelijk
+
+1. NOS. (2021, 11 oktober). Messengeweld onder jongeren blijft zorgelijk, landelijke inleveractie begint. NOS.nl. Geraadpleegd op 7 september 2022, van https://nos.nl/artikel/2401183-messengeweld-onder-jongeren-blijft-zorgelijk-landelijke-inleveractie-begint
+
+2. Dijns, D. L. A. M. (2008). Opvoeding, houding en gedrag: Een studie naar het verband van reguliere en van justitieel intramurale opvoeding met de houding ten opzichte van sociale grenzen en (probleem)gedrag van jongeren. university of Groningen. https://research.rug.nl/en/publications/opvoeding-houding-en-gedrag-een-studie-naar-het-verband-van-regul
+
+3. Centraal Bureau voor de Statistiek. (2022, 1 juni). Mentale gezondheid jongeren afgenomen. Geraadpleegd op 7 september 2022, van https://www.cbs.nl/nl-nl/nieuws/2022/22/mentale-gezondheid-jongeren-afgenomen
+
+4. Kliniek biedt jongeren laatste hoop: “Ze lieten me niet los, welke fout ik ook maakte”. (2021, 23 september). RTL Nieuws. Geraadpleegd op 7 september 2022, van https://www.rtlnieuws.nl/nieuws/nederland/artikel/5255933/yes-we-can-kliniek-verslaafde-jongeren-kinderen-documentaire-serie
+
+5. Gedragsproblemen | Nederlands Jeugdinstituut. (z.d.). Geraadpleegd op 7 september 2022, van https://www.nji.nl/gedragsproblemen
+
+6. Centraal Bureau voor de Statistiek. (2021, 31 mei). Monitor Jeugdcriminaliteit 2020. Geraadpleegd op 7 september 2022, van https://www.cbs.nl/nl-nl/publicatie/2021/22/monitor-jeugdcriminaliteit-2020
+
+7. Wikipedia-bijdragers. (2022b, juli 23). The Wire. Wikipedia. Geraadpleegd op 7 september 2022, van https://nl.wikipedia.org/wiki/The_Wire
+
+8. Criminaliteit en Rechtsstaat - Criminaliteit in de maatschappij. (2017, 11 december). Maatschappijkunde.nl. Geraadpleegd op 7 september 2022, van http://www.maatschappijkunde.nl/examenstof/criminaliteitenrechtsstaat-kerndoel1/
+
+9. Jong, J. D. de. (2022, 13 augustus). Opinie: ‘Overlastgevende straat- en corpsjongens hebben meer gemeen dan je denkt’. Het Parool. Geraadpleegd op 7 september 2022, van https://www.parool.nl/columns-opinie/opinie-overlastgevende-straat-en-corpsjongens-hebben-meer-gemeen-dan-je-denkt~b29a2c35/
+
+10. Ministerie van Algemene Zaken. (2022, 2 augustus). Straffen en maatregelen voor jongeren. Straffen en maatregelen | Rijksoverheid.nl. Geraadpleegd op 7 september 2022, van https://www.rijksoverheid.nl/onderwerpen/straffen-en-maatregelen/straffen-en-maatregelen-voor-jongeren#:%7E:text=Jongeren%20tussen%20de%2012%20en,geen%20straf%20of%20boete%20krijgen.
+
+11. Jan Dirk de Jong: Jeugdcriminaliteit gemist? Start met kijken op NPO Start. (z.d.). www.npostart.nl. Geraadpleegd op 7 september 2022, van https://www.npostart.nl/brainwash-talks/16-05-2021/VPWON_1326072
+
+12. Ministerie van Justitie en Veiligheid. (2022, 7 januari). Invloed van ondermijnende criminaliteit op samenleving. Ondermijning | Rijksoverheid.nl. Geraadpleegd op 7 september 2022, van https://www.rijksoverheid.nl/onderwerpen/ondermijning/invloed-van-ondermijnende-criminaliteit-op-samenleving
+
+13. Instanties betrokken bij het tegengaan van jeugdcriminaliteit. (z.d.). politie.nl. Geraadpleegd op 7 september 2022, van https://www.politie.nl/informatie/instanties-betrokken-bij-het-tegengaan-van-jeugdcriminaliteit.html
+
+14. Stam, C. (2004, 23 juni). Ouders van criminele jongeren leren omgaan met probleemgedrag: Opvoedcursus als wondermiddel. Zorg+Welzijn. Geraadpleegd op 7 september 2022, van https://www.zorgwelzijn.nl/ouders-van-criminele-jongeren-leren-omgaan-met-probleemgedrag-opvoedcursus-als-wondermiddel-zwz012711w/
+
+15. NOS. (2022, 4 september). Vijf aanhoudingen na schietpartij Rotterdam. NOS.nl. Geraadpleegd op 7 september 2022, van https://nos.nl/artikel/2443232-vijf-aanhoudingen-na-schietpartij-rotterdam
+
+16. NOS. (2022a, juli 11). Verbeteringsplan Rotterdam-Zuid iets achter, maar “opwaartse beweging” is er. NOS.nl. Geraadpleegd op 7 september 2022, van https://nos.nl/artikel/2436259-verbeteringsplan-rotterdam-zuid-iets-achter-maar-opwaartse-beweging-is-er
+
+17. Posthumus, H. S. D. R. (2022, 22 februari). 5. Verschilt de sociale omgeving van al dan niet verdachte jongeren met multiproblematiek? Centraal Bureau voor de Statistiek. Geraadpleegd op 7 september 2022, van https://www.cbs.nl/nl-nl/longread/aanvullende-statistische-diensten/2022/profiel-en-sociale-omgeving-van--potentiele---zvh-clienten/5-verschilt-de-sociale-omgeving-van-al-dan-niet-verdachte-jongeren-met-multiproblematiek-
+
+18. Weerman, F.M. (2017). Social media en smartphones als verklaring voor de daling in jeugdcriminaliteit?. Justitiële Verkenningen, 47(1), 71–87. doi:10.5553/JV/016758502017043001005
+
+##### Professionals
+
+1. Yes We Can Clinics - Als niets meer werkt. (z.d.). Geraadpleegd op 7 september 2022, van https://www.yeswecanclinics.nl/
+
+2. Agressie en geweld - Straat - Samenwerken met. (z.d.). Halt. Geraadpleegd op 7 september 2022, van https://www.halt.nl/halt-in-de-wijk/agressie-en-geweld
+
+3. Jongeren beter bestand tegen tegenslag en verleidingen door versterken weerbaarheid. (z.d.). Movisie. Geraadpleegd op 7 september 2022, van https://www.movisie.nl/artikel/jongeren-beter-bestand-tegen-tegenslag-verleidingen-door-versterken-weerbaarheid
+
+4. Heb jij te maken met crimineel gedrag bij jongeren? (z.d.). Pons Academie. Geraadpleegd op 7 september 2022, van https://ponsacademie.nl/crimineel-gedrag-jongeren/
+
+5. “Marokkaanse” jongens: kapot moeilijk - tegenlicht. (2009, 20 april). VPRO. Geraadpleegd op 7 september 2022, van https://www.vpro.nl/programmas/tegenlicht/lees/bijlagen/2008-2009/de-ongekroonde-koning-van-amsterdam-west/marokkaanse-jongens-kapot-moeilijk.html
+
+6. Risico- en beschermende factoren voor gedragsproblemen | Nederlands Jeugdinstituut. (z.d.). Geraadpleegd op 7 september 2022, van https://www.nji.nl/gedragsproblemen/risico-en-beschermende-factoren
+
+7. Lange, S. T. H. de. (2019, 6 augustus). Zo help je een criminele jongere met een lvb weer op het rechte pad. Zorg+Welzijn. Geraadpleegd op 7 september 2022, van https://www.zorgwelzijn.nl/zo-help-een-criminele-jongere-met-een-lvb-weer-op-het-rechte-pad/
+
+8. Osman, H., & Mulder, E. (2021, 10 november). Podcast: Professionele nabijheid; inleven in jongeren en kunnen meebewegen, maar hoe dan? Branches Zorg voor Jeugd. Geraadpleegd op 15 november 2021, van https://www.brancheszorgvoorjeugd.nl/berichten/podcasts/stroomop-de-podcast-aflevering-1/
+
+9. Hogendorp, S. van. (2018, 12 juli). Vergroot het vertrouwen tussen jongeren en politie. Zorg+Welzijn. Geraadpleegd op 7 september 2022, van https://www.zorgwelzijn.nl/vergroot-het-vertrouwen-tussen-jongeren-en-politie/
+
+10. Jonkman, C., Boonstra, C., van busschbach, J., & Soeteman, D. (2015, 23 maart). Multi systeem therapie voor ernstig antisociale en delinquente jongeren: Twee jaar follow-up studie. TijdschriftSysteemTherapie.nl. https://www.tijdschriftsysteemtherapie.nl/inhoud/tijdschrift_artikel/ST-21-2-94/Multi-Systeem-Therapie-voor-ernstig-antisociale-en-delinquente-jongeren-twee-jaar-follow-up-studie
+
+##### Risicojeugd
+
+1. De viersprong. (2020, 8 mei). Kenmerken gedragsproblemen bij jongeren: wat is er aan de hand? ggz de Viersprong. Geraadpleegd op 7 september 2022, van https://www.deviersprong.nl/hulp-nodig-bij/gedragsproblemen-jongeren/kenmerken/
+
+2. Wikipedia-bijdragers. (2022a, juni 12). Jeugdinrichting. Wikipedia. Geraadpleegd op 7 september 2022, van https://nl.wikipedia.org/wiki/Jeugdinrichting
+
+3. Straub, J. (2020, 10 januari). ‘Jeugdcriminaliteit bestrijden? Kijk de kunst af in Rotterdam’. Het Parool. Geraadpleegd op 7 september 2022, van https://www.parool.nl/columns-opinie/jeugdcriminaliteit-bestrijden-kijk-de-kunst-af-in-rotterdam~b2377077/
+
+4. Sentse, M. (2018, 14 november). Bekijk: Probleemgedrag bij jongeren. NEMOKennislink. Geraadpleegd op 7 september 2022, van https://www.nemokennislink.nl/publicaties/probleemgedrag-bij-jongeren/
+
+5. Hogendorp, S. van. (2018b, juli 12). Vergroot het vertrouwen tussen jongeren en politie. Zorg+Welzijn. Geraadpleegd op 7 september 2022, van https://www.zorgwelzijn.nl/vergroot-het-vertrouwen-tussen-jongeren-en-politie/
+
+6. Wikipedia-bijdragers. (2022a, april 23). Probleemwijk. Wikipedia. Geraadpleegd op 7 september 2022, van https://nl.wikipedia.org/wiki/Probleemwijk
+
+7. undefined [SeriousAesthetics]. (2016, 12 juni). Probleemwijken Aflevering 1 - Assen. YouTube. Geraadpleegd op 7 september 2022, van https://www.youtube.com/watch?v=fyWWeF1zM6U
+
+8. Wikipedia-bijdragers. (2021, 10 mei). Vogelaarwijk. Wikipedia. Geraadpleegd op 7 september 2022, van https://nl.wikipedia.org/wiki/Vogelaarwijk
+
+9. Wikipedia-bijdragers. (2020, 27 november). Probleemwijken (televisieprogramma). Wikipedia. Geraadpleegd op 7 september 2022, van https://nl.wikipedia.org/wiki/Probleemwijken_(televisieprogramma)
+
+10. Ang, W. (2019, 14 oktober). Hoe worden jongeren wie ze zijn? Sociaal.Net. Geraadpleegd op 7 september 2022, van https://sociaal.net/achtergrond/identiteit-in-een-diverse-wereld/
+
+11. ‘Strijden of Snitchen’: ben jij voorbereid op criminaliteit? (2021, 15 oktober). SED - Enkhuizen. Geraadpleegd op 7 september 2022, van https://www.enkhuizen.nl/actueel/strijden-of-snitchen
+
+12. Volker, B. (2008). Vriendschap en criminaliteit bij jongeren. https://www.researchgate.net/. https://www.researchgate.net/profile/Beate-Volker/publication/46701151_Vriendschap_en_criminaliteit_bij_jongeren/links/54cf14220cf298d65662bfd2/Vriendschap-en-criminaliteit-bij-jongeren.pdf
 
 #### WWWWWH
 
