@@ -3,7 +3,7 @@
 <br><br><br><br>
 
 Hogeschool Rotterdam   
-Creative Media & Game Technologies
+Creative Media & Game Technologies  
 Groep 2
 
 <br><br><br><br>
