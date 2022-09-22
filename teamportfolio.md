@@ -166,7 +166,7 @@ W3 di: Sprint review
 
 *Vragenlijst bedacht en uitgekozen met het hele team voordat we het eerste gesprek hadden*
 
-<!-- TODO: insert pic van vragenproces -->
+![](img/opdrachtgever_intake.png)
 
 Uiteindelijke gekozen lijst van belangrijke vragen:
 
@@ -237,9 +237,8 @@ De opdrachtgever opereert in een niet bestaande markt, althans er zijn nog geen 
 
 #### Stakeholders
 
-Zie stakeholdermap miro
-
-<!-- TODO: add stakeholdermap uit miro -->
+![](img/stakeholdermap.png)
+*inlevingproduct risicojeugd*
 
 #### Doelgroep
 
@@ -338,11 +337,6 @@ keywords:
 - geweld
 
 Tijdens het onderzoeken heb ik informatie gevonden dat maatschappelijk is, professionals betrekt of jongeren. Ik heb gezocht met behulp van gegeven tips zoals: “” haakjes, -(woord) en meer zodat ik mijn research zo specifiek mogelijk kon maken. Ik heb gezorgd dat ik recente en betrouwbare bronnen heb gekregen maar ook bronnen waar jongeren hun mening in delen en ook waar professionals hun mening in delen om zo inzicht te krijgen over hoe de 2 groepen erover denken. Mijn uiteindelijke resultaten en ook die van hun heb ik samen met mijn teamgenoten besproken en die hebben we in een wall of inspiration gezet.
-
-
-<!-- TODO: insert pics wall of inspiration -->
-<!-- TODO: insert apa lijst met bronnen wall of inspiration -->
-
 
 #### Interview/Survey
 
@@ -451,19 +445,19 @@ Vanuit de interviews kan ik op dit moment nog geen conclusies trekken omdat ik n
 
 In mijn team zijn er 2 onderzoekende technologen. Samen met mijn mede technoloog heb ik onze bevindingen genoteerd in miro. Hieruit hebben we verbindingen gemaakt en deze hebben we uiteindelijk ondergedeeld in inzichten. Ook hebben we tegen liggingen met elkaar verbonden om zo de verschillen eruit te halen.
 
-<!-- TODO: add pic van miro (analyse) -->
+![](img/analyse.png)
 
 *Groen is Raisa en rood is  Bilal.*
 
 ##### Verbanden Analyse
 
-<!-- TODO: add pic van miro (verbanden analyse)-->
+![](img/analyse_verbanden.png)
 
 *verbanden leggen*
 
 ##### Tegenliggen Analyse
 
-<!-- TODO: add pic van miro (tegenliggen analyse)-->
+![](img/analyse_tegenstellingen.png)
 
 ##### Inzichten
 
@@ -626,7 +620,9 @@ Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 
 #### Wall of inspiration
 
-<!-- TODO: insert pic wall of inspirations -->
+![](img/wallofinspi_maatschappij.png/)
+![](img/wallofinspi_profs.png/)
+![](img/wallofinspi_risicojeugd.png/)
 
 ##### Maatschappelijk
 
@@ -884,6 +880,7 @@ This shift > For this audience
 
 ### 2.7 Conclusies, aanbevelingen en vervolgstappen
 
+<!-- TODO: insert samenvatting van alle conclusies -->
 
 <br><br><br><br>
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
@@ -918,6 +915,8 @@ This shift > For this audience
 ### Bijlage B (Sprint Reviews & Retros)
 
 ### Bijlage C (Roadmap, Product Backlog met Userstories & Sprintplanning)
+
+<!-- TODO: insert roadmap p1 -->
 
 ### Bijlage D (Opleverdocument)
 
