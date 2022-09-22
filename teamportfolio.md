@@ -30,7 +30,6 @@ In opdracht van: Jan Dirk de Jong (Lectoraat HS Leiden)
     - [1.2 Intake & Marktanalyse](#12-intake--marktanalyse)
         - [Vragenlijst](#vragenlijst)
       - [Eerste Gesprek](#eerste-gesprek)
-        - [Uitvoering](#uitvoering)
       - [Welke Markt Opereert de opdrachtgever](#welke-markt-opereert-de-opdrachtgever)
       - [Stakeholders](#stakeholders)
       - [Doelgroep](#doelgroep)
@@ -43,8 +42,9 @@ In opdracht van: Jan Dirk de Jong (Lectoraat HS Leiden)
     - [1.3 Deskresearch & Doelgroeponderzoek](#13-deskresearch--doelgroeponderzoek)
       - [Keyword research](#keyword-research)
       - [Interview/Survey](#interviewsurvey)
-        - [Vragen](#vragen)
-        - [Uitvoering](#uitvoering-1)
+        - [Interview vragen](#interview-vragen)
+        - [Uitvoering](#uitvoering)
+          - [Interview 1 (Sociaal werker, Sarah Abdi)](#interview-1-sociaal-werker-sarah-abdi)
         - [Interview Opdrachtgever](#interview-opdrachtgever)
         - [Conclusie Interview](#conclusie-interview)
       - [Analyse](#analyse)
@@ -76,9 +76,16 @@ In opdracht van: Jan Dirk de Jong (Lectoraat HS Leiden)
         - [Professionals](#professionals-1)
         - [Risicojeugd](#risicojeugd-1)
       - [WWWWWH](#wwwwwh)
+        - [Wie](#wie)
+        - [Wat](#wat)
+        - [Waar](#waar)
+        - [Wanneer](#wanneer)
+        - [Waarom](#waarom)
+        - [Hoe](#hoe)
       - [Insights](#insights)
       - [Frame Your Design](#frame-your-design)
       - [Impact Ladder](#impact-ladder)
+      - [Mogelijke Oplossingsrichtingen](#mogelijke-oplossingsrichtingen)
     - [1.6 Technologisch onderzoek & eerste experiment(en)](#16-technologisch-onderzoek--eerste-experimenten)
     - [1.7 Conclusies, aanbevelingen en vervolgstappen](#17-conclusies-aanbevelingen-en-vervolgstappen)
   - [Hoofdstuk 2](#hoofdstuk-2)
@@ -224,10 +231,6 @@ Jan Dirk gaf het spel: Last of us als voorbeeld.
 
 
 
-##### Uitvoering
-
-<!-- TODO: insert -->
-
 #### Welke Markt Opereert de opdrachtgever
 
 De opdrachtgever opereert in een niet bestaande markt, althans er zijn nog geen concrete volledig werkende producten die werken hoe de opdrachtgever oogt / werkt niet goed genoeg om het doel te bereiken.
@@ -235,6 +238,8 @@ De opdrachtgever opereert in een niet bestaande markt, althans er zijn nog geen 
 #### Stakeholders
 
 Zie stakeholdermap miro
+
+<!-- TODO: add stakeholdermap uit miro -->
 
 #### Doelgroep
 
@@ -354,7 +359,7 @@ Het volgende dat we moesten doen is een interview houden met professionals binne
 
 Er zijn er meer maar dit zijn de beroepen waar ik me op gefocust heb. Op basis van deze beroepen en mijn voorgaande onderzoek heb ik een lijst gemaakt met interviewvragen die mijn onderzoek zal aanvullen om tot meer specifieke conclusies te komen.
 
-Interview vragen:
+##### Interview vragen
 
 1. Kunt u uzelf voorstellen en benoemen wat uw beroep is?
 2. Wat is uw functie
@@ -380,21 +385,42 @@ Ik heb contact gehad met verschillende hulpverleners 2 personen kunnen pas later
 Wel hebben we nog een klassikale interview gehouden met onze opdrachtgever. De belangrijkste punten heb ik hieronder verwerkt. De rest is in een spraakmemo terug te vinden waarin ook de afgespeelde video door de opdrachtgever op memo is met de bijbehorende comments. 
 
 
-##### Vragen 
-
-1.  Hoe heet u?
-2.  Wat is uw functie
-3. Hoelang heeft u al ervaring met de jeugd
-4. Wat vind u van de risicojeugd?
-5. Waarom vindt u dat?
-6. Waar denkt u dat hun gedrag aan ligt?
-7. Kunt u ze ergens begrijpen waarom ze zich zo gedragen?
-8. Hoe helpt uw bedrijf de risicojeugd?
-9. Hoe effectief is de behandeling die jullie aanbieden?
-10. Ziet u regelmatig risicojongeren terug komen?
-11. Hoe zou u de behandelingen aanpakken als u het anders kon doen?
-
 ##### Uitvoering
+
+###### Interview 1 (Sociaal werker, Sarah Abdi)
+
+1. Hoe heet u?
+- Sarah Abdi
+
+ 2. bij welke bedrijf werkt u?
+- Ik heb mijn eigen bedrijf en ik werk als zzp’er bij de tbs-kliniek en bij verslavingszorg. Dus ik werk bij verschillende bedrijven zoals bv. Antes.
+
+3. Wat is uw functie
+- Mijn functie binnen de zorg is Sociaal werker.
+
+ 4. Hoelang heeft u al ervaring met de jeugd
+- ongeveer 5 jaar
+
+ 5. Wat vindt u van de risicojeugd?
+- Heel ernstig en problematisch. Steeds meer jonge jongeren die zich schuldig maken aan criminaliteit en problematiek in de samenleving.
+
+6. Waarom vindt u dat?
+- Het zijn steeds jonge jongeren en de leeftijd blijft maar dalen. Eerst zag je oudere leeftijden, maar nu zijn ze steeds jonger en lopen ze met messen op zak of komen ze in aanmerking met straatroven.
+
+7. Waar denkt u dat hun gedrag aan ligt?
+- Ik denk dat er meerdere factoren een rol spelen. Ik denk bv. aan opvoeding, vrienden en thuissituatie. Want, sommige jongeren komen uit hun problematisch gezin, bv. gebroken gezinnen, gezinnen die het sociaal economisch niet breed hebben of alleenstaande moeders die gewoon weinig geld hebben. Hierdoor denken de jongeren van ik moet snel en makkelijk geld verdienen en die gaan dan zo een andere pad leiden.
+8. Kunt u ze ergens begrijpen waarom ze zich zo gedragen?
+- Ergens kan ik ze wel begrijpen, omdat het zoals ik net al zei jongeren zijn waarbij er verschillende factoren spelen. Dit zijn vaak jongeren die uit achterstandswijken komen dus ze waren financieel niet breed, er speelt ook bv. groepsdruk een rol en alleenstaande moeders zonder geld waardoor de jongens eerder voor het geld willen gaan. Hierdoor belanden ze in de drugswereld zonder dat ze bewust zijn van de gevaren die ze oplopen. Zo stoppen ze uiteindelijk ook met hun school.
+
+9. Hoe helpt uw bedrijf de risicojeugd?
+- We werken met verschillende partners om de problematiek rondom de jongeren in de samenleving te verbeteren. Denk bv. aan de gemeente, JOZ, Politie, wijkagent en reclassering die houden zich bezig met jongeren die zich gewoon schuldig maken aan criminaliteit. We helpen ze dus om terug te gaan naar de samenleving d.m.v. begeleidingen, ondersteunen, dag, programma.
+
+10. Hoe effectief is de behandeling die jullie aanbieden?
+-  Kun je nooit vooraf weten natuurlijk. Het verschilt per persoon. Sommige komen niet terug en sommige hebben een terug val.
+11. Ziet u regelmatig risicojongeren terug komen?
+- Ja, je hebt jongeren die regelmatig terug blijven komen omdat ze niet anders gewend zijn, maar je hebt ook jongeren die echt hun zelf willen helpen.
+12. Hoe zou u de behandelingen aanpakken als u het anders kon doen?
+- Bij de wortel aan pakken (wijkagenten, leraren, maatschappelijke werker in wijkteam)
 
 
 ##### Interview Opdrachtgever
@@ -600,6 +626,8 @@ Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 
 #### Wall of inspiration
 
+<!-- TODO: insert pic wall of inspirations -->
+
 ##### Maatschappelijk
 
 1. NOS. (2021, 11 oktober). Messengeweld onder jongeren blijft zorgelijk, landelijke inleveractie begint. NOS.nl. Geraadpleegd op 7 september 2022, van https://nos.nl/artikel/2401183-messengeweld-onder-jongeren-blijft-zorgelijk-landelijke-inleveractie-begint
@@ -686,22 +714,144 @@ Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 
 12. Volker, B. (2008). Vriendschap en criminaliteit bij jongeren. https://www.researchgate.net/. https://www.researchgate.net/profile/Beate-Volker/publication/46701151_Vriendschap_en_criminaliteit_bij_jongeren/links/54cf14220cf298d65662bfd2/Vriendschap-en-criminaliteit-bij-jongeren.pdf
 
+
 #### WWWWWH
 
-<!-- TODO: insert from miro-->
+##### Wie
+*Who is involved?*
+
+Direct
+- Professionals
+- Risicojeugd
+
+Indirect
+- Ouders
+- Omwonende
+- Politie/Justitie
+
+(zie stakeholdermap voor uitgebreidere variant)
+
+##### Wat
+*What occurred?*
+
+- Kunnen niet relateren aan doelgroep
+- Leren
+
+- Begeleiding
+- Ontbreken van vertrouwen
+
+- Slechte omgeving
+- Geweldadige delicten
+- Overlast
+- Afwezigheid van samenhorigheid
+- Groepsdruk
+
+##### Waar
+*When did it happen?*
+- jeugdzorg
+- (Jeugd) gevangenis
+- de straat
+- thuis
+- school
+
+##### Wanneer
+*Where did it happen?*
+- onder reguliere werktijd
+- schooltijd
+- savonds
+
+##### Waarom
+*Why dit it occur?*
+- Geen wederzijds respect
+- Elkaar niet begrijpen
+- Jongeren helpen
+- Geen vertrouwen in volwassenen
+- Vooroordeel van beide kanten
+- Hopeloosheid
+- Buitengesloten
+
+##### Hoe
+*How did it happen?*
+- Andere levensvisie
+- Situatie
+- Door het jeugdzorg systeem
+- Cultuur verschil
+
 
 #### Insights
+*How might we*
 
-<!-- TODO: insert from miro-->
+- Hoe kunnen we zorgen dat een andere levensvisie niet uitmaakt?
+- Hoe kunnen we ervoor zorgen dat cultuurverschil minder te voelen is?
+- Hoe kunnen we ervoor zorgen dat jongeren zich minder buitengesloten voelen?
+- Hoe kunnen we wederzijds respect opbouwen?
+- Hoe kunnen we zorgen voor meer vertrouwen in elkaar?
 
 #### Frame Your Design
 
-<!-- TODO: insert from miro-->
+*What is the problem you’re trying to solve?*  
+Het vergroten van het inlevingsvermogen van professionals in criminele jongeren.
+
+*1. Take a stab at framing this challenge as a question:*  
+Hoe kunnen we ervoor zorgen dat professional zich beter kunnen inleven in de risicojeugd, waardoor er een band gebaseerd op respect en vertrouwen ontstaat tussen de twee partijen.
+
+*2. Now state the key outcome you’re trying to achieve:*  
+Professionals en jeugdcriminelen begrijpen elkaar zodat professionals jeugdcriminelen kunnen helpen aan een betere toekomst.
+
+*3. Write down important aspects of the context or constraints that you need to consider:*  
+- hoge inleving
+- Werktijd restricties
+- manier vinden om mensen te kunnen beïnvloeden
+- Tijdsindeling nieuwe software onbekend
+
+*4. What are some possible solutions to your design question?*  
+Het is goed voor professionals om niet alleen het verhaal van hun patiënt te horen maar ook het verhaal van de mensen in hun omgeving.
+
+- phone game
+- VR experience / game
+- Full game
+- singleplayer tegen npcs die realistisch zijn
+- scenarios  van de straat
+
+- In kleine groepen werken ipv alleen
+- Bodycam meeloop
+- escaperoom met puzzels en dilemma's die vergelijkbaar zijn met dillema's die jeugdcriminelen in de realiteit meemaken
+- multiplayer: tegen / met andere professionals
+- 3d videos
+- gamification
+- bordspel
+- AR
+- habbit app
+- AI
+- phone/bordspel combinatie
+
+*5. Does your original design question need a tweak? Try it again.*  
+Hoe kunnen we ervoor zorgen dat door middel van een game hulpverleners zich beter kunnen inleven in risicojeugd, waardoor er een band gebaseerd op respect en vertrouwen ontstaat tussen de twee partijen. Zo is er een mindere mate van mismatch/miscommunicatie aanwezig.
+
 
 #### Impact Ladder
 
-<!-- TODO: insert from miro-->
+*The lasting social change we would like to contribute to is:*
 
+- Wederzijds respect tussen professionals en probleem jeugd.
+
+- Beter begrip voor de medemens.
+
+- Laten zien hoe technologie ons verder kan helpen.
+
+*The more near-term outcome that tells us our solution is working is:*
+
+- Een toename in gebruikers van onze applicatie.
+
+#### Mogelijke Oplossingsrichtingen
+
+The key shifts that need to happen in order to get there are:
+
+This shift > For this audience
+
+- Lerende mentaliteit ipv een oordelende mentaliteit. > De professionals.
+- Een gevoel van betrokkenheid en samenhorigheid. > De probleemjeugd
+- Onafhankelijkheid. > Van de omgeving. 
 
 <br><br>
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
@@ -763,6 +913,7 @@ Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 ### Bijlage A (Debrief & Samenwerkingcontract)
 
 [Debrief Versie 1](bijlages/bijlage-a/debrief-v1.md)
+[Samenwerkingsovereenkomst](bijlages/bijlage-a/samenwerkingovereenkomst.md)
 
 ### Bijlage B (Sprint Reviews & Retros)
 
