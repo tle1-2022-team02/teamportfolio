@@ -28,26 +28,27 @@ In opdracht van: Jan Dirk de Jong (Lectoraat HS Leiden)
   - [Hoofdstuk 1](#hoofdstuk-1)
     - [1.1 Inleiding](#11-inleiding)
     - [1.2 Intake & Marktanalyse](#12-intake--marktanalyse)
+      - [1.2.1 Intake](#121-intake)
         - [Vragenlijst](#vragenlijst)
-      - [Eerste Gesprek](#eerste-gesprek)
-      - [Welke Markt Opereert de opdrachtgever](#welke-markt-opereert-de-opdrachtgever)
-      - [Stakeholders](#stakeholders)
-      - [Doelgroep](#doelgroep)
+        - [Eerste Gesprek](#eerste-gesprek)
+      - [1.2.2 Welke Markt Opereert de opdrachtgever](#122-welke-markt-opereert-de-opdrachtgever)
+      - [1.2.3 Stakeholders](#123-stakeholders)
+      - [1.2.4 Doelgroep](#124-doelgroep)
         - [Professionals](#professionals)
         - [Risicojeugd](#risicojeugd)
-      - [Job to Be Done](#job-to-be-done)
-      - [Welke producten/diensten/services vervullen dezelfde job](#welke-productendienstenservices-vervullen-dezelfde-job)
+      - [1.2.5 Job to Be Done](#125-job-to-be-done)
+      - [1.2.6 Welke producten/diensten/services vervullen dezelfde job](#126-welke-productendienstenservices-vervullen-dezelfde-job)
+      - [1.2.7 Conclusie](#127-conclusie)
       - [Andere Bronnen](#andere-bronnen)
-      - [Conclusie](#conclusie)
     - [1.3 Deskresearch & Doelgroeponderzoek](#13-deskresearch--doelgroeponderzoek)
-      - [Keyword research](#keyword-research)
-      - [Interview/Survey](#interviewsurvey)
+      - [1.3.1 Keyword research](#131-keyword-research)
+      - [1.3.2 Interview/Survey](#132-interviewsurvey)
         - [Interview vragen](#interview-vragen)
         - [Uitvoering](#uitvoering)
           - [Interview 1 (Sociaal werker, Sarah Abdi)](#interview-1-sociaal-werker-sarah-abdi)
         - [Interview Opdrachtgever](#interview-opdrachtgever)
-        - [Conclusie Interview](#conclusie-interview)
-      - [Analyse](#analyse)
+        - [Conclusie Interviews](#conclusie-interviews)
+      - [1.3.3 Analyse](#133-analyse)
         - [Verbanden Analyse](#verbanden-analyse)
         - [Tegenliggen Analyse](#tegenliggen-analyse)
         - [Inzichten](#inzichten)
@@ -55,37 +56,38 @@ In opdracht van: Jan Dirk de Jong (Lectoraat HS Leiden)
           - [Misverstanden tussen professionals en jongeren](#misverstanden-tussen-professionals-en-jongeren)
           - [Technologische invloed](#technologische-invloed)
           - [Bekende hulpmiddelen voor professionals om jongeren beter te begrijpen](#bekende-hulpmiddelen-voor-professionals-om-jongeren-beter-te-begrijpen)
-        - [Conclusies](#conclusies)
-          - [Doelgroep onderzoek](#doelgroep-onderzoek)
-          - [Wat betekent deze conclusies voor de Design challenge?](#wat-betekent-deze-conclusies-voor-de-design-challenge)
+      - [1.3.4 Conclusies](#134-conclusies)
+        - [Doelgroep onderzoek](#doelgroep-onderzoek)
+        - [Wat betekent deze conclusies voor de Design challenge?](#wat-betekent-deze-conclusies-voor-de-design-challenge)
         - [Uiteindelijke Conclusie](#uiteindelijke-conclusie)
     - [1.4 Make me Think](#14-make-me-think)
-      - [Ethische dilemma’s](#ethische-dilemmas)
+      - [1.4.1 Ethische dilemma’s](#141-ethische-dilemmas)
+        - [Conclusie](#conclusie)
+      - [1.4.2 Eigen perspectief](#142-eigen-perspectief)
         - [Conclusie](#conclusie-1)
-      - [Eigen perspectief](#eigen-perspectief)
-        - [Conclusie](#conclusie-2)
-      - [Make Me Think](#make-me-think)
+      - [1.4.3 Make Me Think](#143-make-me-think)
         - [Casussen:](#casussen)
         - [Perspectieven:](#perspectieven)
         - [Waarden:](#waarden)
         - [Speelveld:](#speelveld)
-        - [Conclusie](#conclusie-3)
+        - [Conclusie](#conclusie-2)
     - [1.5 Inspiratie & Insights](#15-inspiratie--insights)
-      - [Wall of inspiration](#wall-of-inspiration)
+      - [1.5.1 Wall of inspiration](#151-wall-of-inspiration)
         - [Maatschappelijk](#maatschappelijk)
         - [Professionals](#professionals-1)
         - [Risicojeugd](#risicojeugd-1)
-      - [WWWWWH](#wwwwwh)
+      - [1.5.2 WWWWWH](#152-wwwwwh)
         - [Wie](#wie)
         - [Wat](#wat)
         - [Waar](#waar)
         - [Wanneer](#wanneer)
         - [Waarom](#waarom)
         - [Hoe](#hoe)
-      - [Insights](#insights)
-      - [Frame Your Design](#frame-your-design)
-      - [Impact Ladder](#impact-ladder)
-      - [Mogelijke Oplossingsrichtingen](#mogelijke-oplossingsrichtingen)
+      - [1.5.3 Insights](#153-insights)
+      - [1.5.4 Frame Your Design](#154-frame-your-design)
+      - [1.5.5 Impact Ladder](#155-impact-ladder)
+        - [During your project kickoff:](#during-your-project-kickoff)
+        - [As you explore your theory of change:](#as-you-explore-your-theory-of-change)
     - [1.6 Technologisch onderzoek & eerste experiment(en)](#16-technologisch-onderzoek--eerste-experimenten)
     - [1.7 Conclusies, aanbevelingen en vervolgstappen](#17-conclusies-aanbevelingen-en-vervolgstappen)
   - [Hoofdstuk 2](#hoofdstuk-2)
@@ -155,12 +157,18 @@ W3 di: Sprint review
 
 ### 1.1 Inleiding
 
+<!-- TODO: insert inleidende tekst -->
+
+Hier volgt ons onderzoeksproces.
+
 <br><br>
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ### 1.2 Intake & Marktanalyse
 
 *Versie 2022-09-21*
+
+#### 1.2.1 Intake
 
 ##### Vragenlijst
 
@@ -180,7 +188,7 @@ Uiteindelijke gekozen lijst van belangrijke vragen:
 - Zijn er bepaalde (technische) zaken waar wij rekening mee moeten houden?
 - Is geld van belang?
 
-#### Eerste Gesprek
+##### Eerste Gesprek
 
 Op dinsdag 6 september heb ik samen met mijn teamgenoten een presentatie gekregen van onze opdrachtgever Jan Dirk de Jong. Na de presentatie hebben we ook nog een moment gekregen om vragen te stellen. Hieronder is een kleine samenvatting van de gehouden presentatie en de beantwoorde vragen:
 
@@ -231,20 +239,21 @@ Jan Dirk gaf het spel: Last of us als voorbeeld.
 
 
 
-#### Welke Markt Opereert de opdrachtgever
+#### 1.2.2 Welke Markt Opereert de opdrachtgever
 
 De opdrachtgever opereert in een niet bestaande markt, althans er zijn nog geen concrete volledig werkende producten die werken hoe de opdrachtgever oogt / werkt niet goed genoeg om het doel te bereiken.
 
-#### Stakeholders
+#### 1.2.3 Stakeholders
 
 ![](img/stakeholdermap.png)
 *inlevingproduct risicojeugd*
 
-#### Doelgroep
+#### 1.2.4 Doelgroep
 
 ##### Professionals
 
 (Jeugdzorg) Professionals (primaire doelgroep)
+
 Hulpverleners/Jongerenwerkers/Wijkagenten
 
 ##### Risicojeugd
@@ -272,11 +281,11 @@ Vooral de hedendaagse hoog-risicojeugd wordt geassocieerd met de gesignaleerde �
 
 En binnen de doelgroep hedendaagse hoog-risicojeugd die HIC crimes pleegt, onderscheiden we een subgroep die mogelijk doorgroeit tot de georganiseerde (drugs)criminaliteit.
 
-#### Job to Be Done
+#### 1.2.5 Job to Be Done
 
 De job to be done is om de professional meer empathie/begrip te geven naar risicojeugd.
  
-#### Welke producten/diensten/services vervullen dezelfde job
+#### 1.2.6 Welke producten/diensten/services vervullen dezelfde job
 
 Snitchen of Strijden
 
@@ -287,11 +296,18 @@ https://www.meerbode.nl/spel-strijden-of-snitchen-voor-wellantcollege/4
 <!-- TODO: Aan jan dirk vragen welke specifieke spellen er al bestaan van zijn weten af-->
 
 
-#### Andere Bronnen
 
 https://straatwoordenboek.nl/
 
 https://www.bijzonderjeugdwerk.nl/nieuws/bijzonder-jeugdwerk-pakt-straatcultuur-aan/
+
+
+#### 1.2.7 Conclusie
+
+<!-- TODO: add concrete conclusie dit van onderdeel -->
+
+
+#### Andere Bronnen
 
 https://onderwijsontwikkeling.wordpress.com/2017/07/12/tfoe-scorro-die-tattas-begrijpen-ons-niet-straatcultuur-en-schoolcultuur/
 
@@ -299,10 +315,6 @@ https://www.straatcontact.nl/pg-29326-7-95261/pagina/trainingen.html
 
 https://straatagressie.nl/Straatcultuurtraining/
 
-
-#### Conclusie
-
-<!-- TODO: add concrete conclusie dit van onderdeel -->
 
 
 <br><br>
@@ -314,7 +326,7 @@ https://straatagressie.nl/Straatcultuurtraining/
 
 In het Desk research & doelgroeponderzoek zijn er onderdelen waar de onderzoekende technoloog de leiding in neemt. Hierbij is er onderzoek gedaan naar de doelgroep en de context. En zijn er interviews afgelegd met de opdrachtgever en het doelgroep. Vervolgens zijn de resultaten van het onderzoek verwerkt in de wall of inspiration en zijn er onderling verbanden gelegd waaruit belangrijke inzichten zijn gehaald. Deze zijn uiteindelijk besproken waaruit we conclusies hebben getrokken die tot betrekking zijn bij het maken van ons product.
 
-#### Keyword research
+#### 1.3.1 Keyword research
 
 Op basis van de gekregen informatie heb ik een lijst opgesteld met steekwoorden, dit heb ik gedaan zodat ik gericht op zoek kon naar informatie. Ik ben als eerst opzoek gegaan naar meer context en ben me daarna meer gaan verdiepen op het doelgroep. Dit heb ik gedaan om te kijken wat voor professionals het meest te maken hebben met risicojeugd.
 
@@ -338,7 +350,7 @@ keywords:
 
 Tijdens het onderzoeken heb ik informatie gevonden dat maatschappelijk is, professionals betrekt of jongeren. Ik heb gezocht met behulp van gegeven tips zoals: “” haakjes, -(woord) en meer zodat ik mijn research zo specifiek mogelijk kon maken. Ik heb gezorgd dat ik recente en betrouwbare bronnen heb gekregen maar ook bronnen waar jongeren hun mening in delen en ook waar professionals hun mening in delen om zo inzicht te krijgen over hoe de 2 groepen erover denken. Mijn uiteindelijke resultaten en ook die van hun heb ik samen met mijn teamgenoten besproken en die hebben we in een wall of inspiration gezet.
 
-#### Interview/Survey
+#### 1.3.2 Interview/Survey
 
 Na mijn keyword research ben ik erachter gekomen dat het doelgroep professionals heel groot is, en hebben we besloten na een gesprek met onze coach en een interview met de opdrachtgever dat we het ons product gaan richten op hulpverleners. 
 
@@ -435,19 +447,19 @@ Zijn er ideeën vanuit jongeren om de kloof tussen hen en de professionals te ve
 
 jongeren hebben daar geen invloedrijke positie in. Ze kunnen ideeën hebben maar ze zijn afhankelijk van een situatie dat een organisatie hun aan het woord laat. dan hebben ze wel ideeën en dat komt erop neer neem meer moeite voor mij ga met wandelen een band maken en niet gelijk alles van papier halen en ergelijk erop in gaan, ga je verdiepen en serieus nemen. Jongeren die willen op een leuke manier connecten. professionals moeten luisteren en niet alles volgens het boekje ze moet meer verdiepen in hun. en niet aannames maken. 
 
-##### Conclusie Interview
-Vanuit de interviews kan ik op dit moment nog geen conclusies trekken omdat ik nog interviews moet houden met hulpverleners. Als ik de antwoorden van deze interviews heb kan ik ze visualiseren.
+##### Conclusie Interviews
+<!-- Vanuit de interviews kan ik op dit moment nog geen conclusies trekken omdat ik nog interviews moet houden met hulpverleners. Als ik de antwoorden van deze interviews heb kan ik ze visualiseren. -->
 
 <!-- TODO: add concrete conclusie dit van onderdeel -->
 
 
-#### Analyse
+#### 1.3.3 Analyse
 
 In mijn team zijn er 2 onderzoekende technologen. Samen met mijn mede technoloog heb ik onze bevindingen genoteerd in miro. Hieruit hebben we verbindingen gemaakt en deze hebben we uiteindelijk ondergedeeld in inzichten. Ook hebben we tegen liggingen met elkaar verbonden om zo de verschillen eruit te halen.
 
 ![](img/analyse.png)
 
-*Groen is Raisa en rood is  Bilal.*
+*Groen is Raiesa en rood is  Bilal.*
 
 ##### Verbanden Analyse
 
@@ -516,7 +528,7 @@ Een eerder benoemde hulpmiddel is VR dat een groter inlevingsvermogen kan creër
 Hier komen we dus tot de conclusie dat om te zorgen dat professionals jongeren beter begrijpen ze zich moeten verdiepen in hoe jongeren zich voelen d.m.v. hun achtergrond in rekening te houden.
 
 
-##### Conclusies
+#### 1.3.4 Conclusies
 
 Na onze keyword research en interviews hebben we een analyse gemaakt die we hebben gevisualiseerd. Hieruit hebben we verbanden gelegd waar we uiteindelijk inzichten uit hebben gehaald. Hieronder zal ik de gemaakte conclusies noteren.
 - Jongeren gaan het altijd nog lastig vinden om zich betrokken te voelen in de samenleving
@@ -530,7 +542,7 @@ Na onze keyword research en interviews hebben we een analyse gemaakt die we hebb
 - VR kan een hele grote invloed hebben bij de professionals aangezien het al eerder heeft laten zien dat het de perfecte manier is om inlevingsvermogen te laten zien. Hiermee kunnen de professionals inleven in de risicojeugd.
 
 
-###### Doelgroep onderzoek
+##### Doelgroep onderzoek
 
 In het allereerste interview met Jan Dirk zegt hij:” Medewerkers zullen de jongeren beter moeten begrijpen om ze echt te kunnen helpen.” Hij benoemt daarbij specifiek: hulpverleners, jongerenwerk en de politie. Hierna heb ik de keyword research gedaan. Hoewel ik bijna alle professionals ben tegengekomen was mij opgevallen dat professionals die op een dagelijkse basis met risicojeugd omgaan en zich moeten verdiepen in deze jongeren vooral hulpverleners zijn. Het is voor hun extra van belang dat ze een band kunnen opbouwen met de risicojeugd. En deze band moet voor een langere periode stand houden omdat ze dezelfde patiënt vaker zullen spreken. 
 
@@ -538,7 +550,7 @@ later heb ik weer een interview gehad met de opdrachtgever waar opnieuw is verte
 
 Het doelgroep voor mijn team is dus professionals en dan specifiek hulpverleners omdat hun op lange termijn met risicojeugd werken die zich al in problemen bevinden.
 
-###### Wat betekent deze conclusies voor de Design challenge?
+##### Wat betekent deze conclusies voor de Design challenge?
 
 Na een meeting gehouden te hebben met de Ontwerpende technoloog hadden we samen met z'n drieën gekeken welke mogelijkheden we hebben voor de Design challenge. We zijn samen door alle conclusies gelopen en hebben paar punten apart gehouden. Uit de meeting kwam dit naar voren:
 
@@ -558,7 +570,7 @@ Uit onze interview met de opdrachtgever is duidelijk geworden dat onze doelgroep
 
 ### 1.4 Make me Think
 
-#### Ethische dilemma’s
+#### 1.4.1 Ethische dilemma’s
 
 Het doel van onze TLE opdracht is om door middel van technologie het inlevingsvermogen van professionals op jeugdcriminaliteit te vergroten. De rede dat het inlevingsvermogen van professionals vergroot moet worden is omdat door de manier waarop professionals nu omgaan met het helpen van jonge criminelen aan een betere toekomst nog niet helemaal de perfecte manier is. Professionals en jonge criminelen werken niet zo goed samen omdat er een groot cultuurverschil in zit. Zo hebben de professionals een goede baan en zien ze een mooie toekomst voor zich, maar leven veel jonge criminelen op straat en leven van dag tot dag. Als zo’n jeugdcrimineel wordt opgepakt is het de bedoeling dat er een professional met hem bezig gaat zijn om hem weer op het juiste pad te zetten en zijn toekomst helder in te gaan laten zien, maar doordat er toch een stukje respect en vertrouwen mist tussen beide partijen is het lastig voor de professionals om zijn/haar cliënten zo goed mogelijk te helpen. 
 
@@ -571,7 +583,7 @@ Aan de andere kant hangt er ook een nadeel aan het vergroten van inlevingsvermog
 In dit vraagstuk / dilemma zal dus een goede tussenweg moeten worden gevonden. De jongeren moeten zich veilig en vertrouwd voelen bij een professional, maar tegelijkertijd moet de veiligheid van een professional ook goed zijn. Er kunnen dus niet zomaar dingen gezegd of gedaan worden, maar professionals moeten wel weten wat deze jongeren op straat en in de criminaliteit meemaken om de jeugdcriminaliteit te verhelpen op een goede manier en deze jongeren een heldere toekomst geven. 
 
 
-#### Eigen perspectief
+#### 1.4.2 Eigen perspectief
 
 Als betrokken technoloog heb je je eigen perspectief met betrekking tot opdrachten, in tegenstelling tot anderen ben jij niet zo bezig met het ontwerpen of interviewen van personen. Een betrokken technoloog is iemand die vooral rekening houd met actualiteit, ethische vraagstukken en de maatschappij. Een betrokken technoloog zal daarom ook vaak de vraag stellen waarom we op een manier zo iets doen. Ook houdt de betrokken technoloog zich bezig met de normen en waarden van de maatschappij en daarnaast ook met vraagstukken met betrekking tot privacy, comfort, veiligheid, etc… Door deze vraagstukken te beantwoorden in een project zorgt het ervoor dat een nieuw ontwikkeld product goed valt binnen de maatschappij. Als er bijvoorbeeld niet rekening zou worden gehouden met de privacy of comfort van mensen zal je product niet zo snel als goed worden beschouwd, maar vinden mensen het eerder een probleem worden. Om dit in goede lijnen te kunnen sturen is daar een betrokken technoloog voor. 
 
@@ -579,7 +591,7 @@ Als betrokken technoloog heb je je eigen perspectief met betrekking tot opdracht
 
 <!-- TODO: add concrete conclusie dit van onderdeel -->
 
-#### Make Me Think
+#### 1.4.3 Make Me Think
 
 Er is nog geen definitief concept wat kan worden gebruikt voor Make Me Think, maar we hebben wel al een klein vaag concept wat we hiervoor kunnen gebruiken. Het concept is tot nu toe het idee dat wij een game willen gaan maken waardoor professionals inlevingsgevoel kunnen krijgen bij hoe jeugdcriminelen leven. Het doel hiervan is om tussen professionals en jeugdcriminelen vertrouwen en respect te brengen en daarmee een band mee kunnen opbouwen, maar hier kun je natuurlijk vanuit verschillende perspectieven andere meningen over hebben, daarom is Make Me Think hiervoor uitgevonden. 
 
@@ -618,7 +630,7 @@ Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 
 ### 1.5 Inspiratie & Insights
 
-#### Wall of inspiration
+#### 1.5.1 Wall of inspiration
 
 ![](img/wallofinspi_maatschappij.png/)
 ![](img/wallofinspi_profs.png/)
@@ -711,7 +723,7 @@ Bijvoorbeeld: privacy, veiligheid, comfort, vriendschap, etc….
 12. Volker, B. (2008). Vriendschap en criminaliteit bij jongeren. https://www.researchgate.net/. https://www.researchgate.net/profile/Beate-Volker/publication/46701151_Vriendschap_en_criminaliteit_bij_jongeren/links/54cf14220cf298d65662bfd2/Vriendschap-en-criminaliteit-bij-jongeren.pdf
 
 
-#### WWWWWH
+#### 1.5.2 WWWWWH
 
 ##### Wie
 *Who is involved?*
@@ -774,7 +786,7 @@ Indirect
 - Cultuur verschil
 
 
-#### Insights
+#### 1.5.3 Insights
 *How might we*
 
 - Hoe kunnen we zorgen dat een andere levensvisie niet uitmaakt?
@@ -783,7 +795,7 @@ Indirect
 - Hoe kunnen we wederzijds respect opbouwen?
 - Hoe kunnen we zorgen voor meer vertrouwen in elkaar?
 
-#### Frame Your Design
+#### 1.5.4 Frame Your Design
 
 *What is the problem you’re trying to solve?*  
 Het vergroten van het inlevingsvermogen van professionals in criminele jongeren.
@@ -825,7 +837,9 @@ Het is goed voor professionals om niet alleen het verhaal van hun patiënt te ho
 Hoe kunnen we ervoor zorgen dat door middel van een game hulpverleners zich beter kunnen inleven in risicojeugd, waardoor er een band gebaseerd op respect en vertrouwen ontstaat tussen de twee partijen. Zo is er een mindere mate van mismatch/miscommunicatie aanwezig.
 
 
-#### Impact Ladder
+#### 1.5.5 Impact Ladder
+
+##### During your project kickoff:
 
 *The lasting social change we would like to contribute to is:*
 
@@ -839,7 +853,7 @@ Hoe kunnen we ervoor zorgen dat door middel van een game hulpverleners zich bete
 
 - Een toename in gebruikers van onze applicatie.
 
-#### Mogelijke Oplossingsrichtingen
+##### As you explore your theory of change:
 
 The key shifts that need to happen in order to get there are:
 
@@ -854,11 +868,23 @@ This shift > For this audience
 
 ### 1.6 Technologisch onderzoek & eerste experiment(en)
 
+<!-- TODO: doe tecnologisch onderzoek -->
+
+- VR
+- Mobile Games
+- AR
+- Laravel
 
 <br><br>
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ### 1.7 Conclusies, aanbevelingen en vervolgstappen
+
+<!-- TODO: insert samenvatting van conclusies vanuit alle onderdelen en vorm zo een grote conclusie -->
+
+<!-- TODO: bedenk aanbevelingen -->
+
+<!-- TODO: bedenk vervolgstappen -->
 
 
 <br><br><br><br>
@@ -910,6 +936,7 @@ This shift > For this audience
 ### Bijlage A (Debrief & Samenwerkingcontract)
 
 [Debrief Versie 1](bijlages/bijlage-a/debrief-v1.md)
+
 [Samenwerkingsovereenkomst](bijlages/bijlage-a/samenwerkingovereenkomst.md)
 
 ### Bijlage B (Sprint Reviews & Retros)
