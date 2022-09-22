@@ -916,7 +916,7 @@ This shift > For this audience
 
 ### Bijlage C (Roadmap, Product Backlog met Userstories & Sprintplanning)
 
-<!-- TODO: insert roadmap p1 -->
+![](img/roadmap_p1.png)
 
 ### Bijlage D (Opleverdocument)
 
