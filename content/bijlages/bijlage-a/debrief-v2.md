@@ -124,11 +124,4 @@ Geen budget (enkel voor de hosting > word vanuit instantie die het in de praktij
 ## 13. Overig
 *Nog andere belangrijke zaken om te benoemen?*
 
-De volgende vragen hebben wij nog als team:
-
-
-Wat zijn concrete voorbeelden van bestaande producten?
-
-Hoe werkt het spel wat u heeft gemaakt/ laten maken in het eerdere project? En wat zijn de grootste problemen? Wat zijn onderdelen die wel goed werkte?
-
-Over de Look & Feel: Wat is onze vrijheid, wat zijn de restricties? Is er al visueel ontwerp, fotografie of huisstijl? Dienen we dit te ontwikkelen?
+nvt
