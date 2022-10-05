@@ -30,13 +30,12 @@ Onze klant is Jan Dirk de Jong van het lectoraat hogeschool leiden. Hij wil dat 
 
 ## 3. Project details
 *Wat is het project? Wat zijn de kansen? Wat is het probleem dat je wilt oplossen?*
-De opdrachtgever wil dat we een product maken om het inlevingsvermogen van de professionals te vergroten. Hij denkt zelf in de richting van een game/gamification oplossing. Het probleem dat hij wil oplossen is dat professionals nog te vaak van buitenaf oordelen over deze groep jeugd, terwijl je ze eigenlijk zij aan zij moet helpen. Ze luisteren namelijk vaak niet direct naar gezag van bovenaf omdat ze dit niet vertrouwen vanuit hun ontwikkeling en opvoeding.
+De opdrachtgever wil dat we een product maken om het inlevingsvermogen van de professionals te vergroten. Hij denkt zelf in de richting van een game/gamification/serious-game oplossing. Het probleem dat hij wil oplossen is dat professionals nog te vaak van buitenaf oordelen over deze groep jeugd, terwijl je ze eigenlijk zij aan zij moet helpen. Ze luisteren namelijk vaak niet direct naar gezag van bovenaf omdat ze dit niet vertrouwen vanuit hun ontwikkeling en opvoeding.
 
 ## 4. Drivers
 *Wat is het doel van het project? Wat dienen we te bereiken?*
 
-Het doel is dat de risicojeugd de professionals gaan vertrouwen en er wederzijds respect ontstaat. Om
-uiteindelijk deze jeugd een betere plek in de maatschappij te helpen.
+Het doel is dat de risicojeugd de professionals gaan vertrouwen en er wederzijds respect ontstaat. De professionals moeten ze beter begrijpen om de professionals beter te kunnen helpen en ze uiteindelijk een betere plek in de maatschappij geven.
 
 ## 5. Doelgroep
 *Op wie richten we ons? Wat proberen we bij ze te bereiken?*
@@ -46,6 +45,18 @@ Onze primaire doelgroep is de professionals die zelf te maken hebben met de risi
 *Wat zijn soortgelijke organisaties? Wat onderscheidt onze opdrachtgever?*
 
 De opdrachtgever had zelf al een product ontwikkeld die dezelfde hoofdvraag bedraagt. Alleen wat hij zelf zei is dat hij niet genoeg expertise heeft over het stukje gamedesign en daardoor de (re)playability niet heel optimaal is en het niet zijn beoogde doel haalde.
+
+Voorbeelden van bestaande producten:
+
+Strijden of Snitchen:
+https://strdr.nu/shop.html#:~:text=Strijden%20of%20snitchen%20discussie%20spel&text=Aan%20de%20hand%20van%20een,zouden%20dan%20consequenties%20kunnen%20zijn%3F
+https://wegwijzerjeugdenveiligheid.nl/actueel/strijden-of-snitchen-its-a-serious-game
+Opmerking van de opdrachtgever: Het spel zelf liep niet echt (winnen en het pad, met doekoe en status meter, was allemaal erg ingewikkeld). De scenario’s waren al wel vaak goed, maar klopte soms niet qua leeftijd of dat je ergens status voor kreeg waarvan de experts (straatjongens) zeiden dat dit zeker niet het geval was. Het was vooral te ingewikkeld denk ik.
+
+VR Licht Verstandelijke Beperking:
+https://om.foleon.com/my-first-group/nieuwsbrief-straf-met-zorg-vijfde-editie/lvb-beleven-door-de-virtual-reality-bril-duplicate/
+
+Er soortgelijke spellen om trauma te ervaren of huiselijk geweld, of zelf straatroof
 
 ## 7. Tone-of-voice
 *Hoe wil de opdrachtgever zijn doelgroep aanspreken?*
@@ -60,9 +71,7 @@ De professionals moeten niet neerkijken op de risicojeugd maar aan hun zijde sta
 ## 9. Look & Feel
 *Wat is onze vrijheid, wat zijn de restricties? Is er al visueel ontwerp, fotografie of huisstijl? Dienen we dit te ontwikkelen?*
 
-?
-
-<!-- TODO: vragen -->
+Alle vrijheid, geen restricties en er is nog geen ontwerp. Wat zijn huisstijl betreft gebruik hij vaak de vormgever Sitnie (http://kallenbachgallery.com/sit) 
 
 ## 10. (Technische) Details
 *Zijn er technische of andere zaken om rekening mee te houden?*
